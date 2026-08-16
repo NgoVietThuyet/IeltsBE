@@ -44,8 +44,20 @@ public class QuestionRepository {
     }
 
     private void loadPart(int part) throws IOException {
-        ClassPathResource resource = new ClassPathResource("questions/Part" + part + ".json");
-        try (InputStream stream = resource.getInputStream()) {
+        java.io.File file = new java.io.File("Data/SP/Part" + part + ".json");
+        if (!file.exists()) {
+            file = new java.io.File("BE/Data/SP/Part" + part + ".json");
+        }
+
+        InputStream stream;
+        if (file.exists()) {
+            stream = new java.io.FileInputStream(file);
+        } else {
+            ClassPathResource resource = new ClassPathResource("questions/Part" + part + ".json");
+            stream = resource.getInputStream();
+        }
+
+        try (stream) {
             JsonNode root = objectMapper.readTree(stream);
             List<Topic> topics = new ArrayList<>();
             for (JsonNode node : root.path("topics")) {
