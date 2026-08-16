@@ -1,0 +1,399 @@
+{
+  "part": 2,
+  "name": "Individual Long Turn",
+  "description": "The candidate receives a cue card, has 1 minute to prepare, and speaks for up to 2 minutes.",
+  "preparationSeconds": 60,
+  "speakingSeconds": 120,
+  "topics": [
+    {
+      "topicId": "people_inspire",
+      "topic": "People and Influence",
+      "cueCardId": "p2_01",
+      "cueCard": "Describe a person who has had a positive influence on you.",
+      "bulletPoints": [
+        "who the person is",
+        "how you know this person",
+        "what qualities this person has",
+        "how this person influenced you"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "helpful_person",
+      "topic": "Helping Others",
+      "cueCardId": "p2_02",
+      "cueCard": "Describe a person who helped you at an important time.",
+      "bulletPoints": [
+        "who the person was",
+        "when they helped you",
+        "what they did",
+        "why their help was important to you"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "interesting_person",
+      "topic": "Interesting People",
+      "cueCardId": "p2_03",
+      "cueCard": "Describe an interesting person you have met.",
+      "bulletPoints": [
+        "who the person is",
+        "where you met",
+        "what you talked about",
+        "why you found the person interesting"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "place_relax",
+      "topic": "Places and Relaxation",
+      "cueCardId": "p2_04",
+      "cueCard": "Describe a place where you like to go to relax.",
+      "bulletPoints": [
+        "where the place is",
+        "how often you go there",
+        "what you do there",
+        "why you find it relaxing"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "beautiful_place",
+      "topic": "Beautiful Places",
+      "cueCardId": "p2_05",
+      "cueCard": "Describe a beautiful place you have visited.",
+      "bulletPoints": [
+        "where it is",
+        "when you visited it",
+        "what you saw there",
+        "why you thought it was beautiful"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "city_visit",
+      "topic": "Cities",
+      "cueCardId": "p2_06",
+      "cueCard": "Describe a city you would like to visit in the future.",
+      "bulletPoints": [
+        "which city it is",
+        "where it is",
+        "what you know about it",
+        "why you would like to visit it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "journey",
+      "topic": "Travel and Journeys",
+      "cueCardId": "p2_07",
+      "cueCard": "Describe a journey that you remember well.",
+      "bulletPoints": [
+        "where you went",
+        "how you travelled",
+        "who you travelled with",
+        "why you remember the journey"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "holiday",
+      "topic": "Holidays",
+      "cueCardId": "p2_08",
+      "cueCard": "Describe a holiday that you really enjoyed.",
+      "bulletPoints": [
+        "where you went",
+        "who you went with",
+        "what you did",
+        "why you enjoyed it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "useful_object",
+      "topic": "Useful Objects",
+      "cueCardId": "p2_09",
+      "cueCard": "Describe an object that is very useful to you.",
+      "bulletPoints": [
+        "what the object is",
+        "when you got it",
+        "how you use it",
+        "why it is useful to you"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "gift",
+      "topic": "Gifts",
+      "cueCardId": "p2_10",
+      "cueCard": "Describe a gift you received that you really liked.",
+      "bulletPoints": [
+        "what the gift was",
+        "who gave it to you",
+        "when you received it",
+        "why you liked it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "technology",
+      "topic": "Technology",
+      "cueCardId": "p2_11",
+      "cueCard": "Describe a piece of technology that you use often.",
+      "bulletPoints": [
+        "what it is",
+        "when you started using it",
+        "what you use it for",
+        "why it is important to you"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "book",
+      "topic": "Books and Reading",
+      "cueCardId": "p2_12",
+      "cueCard": "Describe a book that you enjoyed reading.",
+      "bulletPoints": [
+        "what the book was",
+        "when you read it",
+        "what it was about",
+        "why you enjoyed it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "film",
+      "topic": "Films",
+      "cueCardId": "p2_13",
+      "cueCard": "Describe a film that you remember well.",
+      "bulletPoints": [
+        "what the film was",
+        "when you watched it",
+        "what it was about",
+        "why you remember it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "song",
+      "topic": "Music",
+      "cueCardId": "p2_14",
+      "cueCard": "Describe a song or piece of music that is special to you.",
+      "bulletPoints": [
+        "what it is",
+        "when you first heard it",
+        "when you usually listen to it",
+        "why it is special to you"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "skill",
+      "topic": "Skills and Learning",
+      "cueCardId": "p2_15",
+      "cueCard": "Describe a skill you learned that is useful to you.",
+      "bulletPoints": [
+        "what the skill is",
+        "when you learned it",
+        "how you learned it",
+        "why it is useful"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "course",
+      "topic": "Education",
+      "cueCardId": "p2_16",
+      "cueCard": "Describe a course or subject that you enjoyed studying.",
+      "bulletPoints": [
+        "what the course or subject was",
+        "where you studied it",
+        "what you learned",
+        "why you enjoyed it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "teacher",
+      "topic": "Teachers",
+      "cueCardId": "p2_17",
+      "cueCard": "Describe a teacher who you remember well.",
+      "bulletPoints": [
+        "who the teacher was",
+        "what they taught you",
+        "what they were like",
+        "why you remember them"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "achievement",
+      "topic": "Achievement",
+      "cueCardId": "p2_18",
+      "cueCard": "Describe something you achieved that made you feel proud.",
+      "bulletPoints": [
+        "what you achieved",
+        "when it happened",
+        "what you did to achieve it",
+        "why it made you feel proud"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "challenge",
+      "topic": "Challenges",
+      "cueCardId": "p2_19",
+      "cueCard": "Describe a difficult task that you successfully completed.",
+      "bulletPoints": [
+        "what the task was",
+        "why it was difficult",
+        "what you did",
+        "how you felt after completing it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "decision",
+      "topic": "Decisions",
+      "cueCardId": "p2_20",
+      "cueCard": "Describe an important decision you made.",
+      "bulletPoints": [
+        "what the decision was",
+        "when you made it",
+        "what influenced your decision",
+        "why it was important"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "event",
+      "topic": "Events",
+      "cueCardId": "p2_21",
+      "cueCard": "Describe an event that you enjoyed attending.",
+      "bulletPoints": [
+        "what the event was",
+        "where and when it happened",
+        "who you went with",
+        "why you enjoyed it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "celebration",
+      "topic": "Celebrations",
+      "cueCardId": "p2_22",
+      "cueCard": "Describe a celebration that is important to you.",
+      "bulletPoints": [
+        "what the celebration is",
+        "when it takes place",
+        "what people usually do",
+        "why it is important to you"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "meal",
+      "topic": "Food and Meals",
+      "cueCardId": "p2_23",
+      "cueCard": "Describe a memorable meal you had.",
+      "bulletPoints": [
+        "where you had the meal",
+        "who you ate with",
+        "what you ate",
+        "why the meal was memorable"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "restaurant",
+      "topic": "Restaurants",
+      "cueCardId": "p2_24",
+      "cueCard": "Describe a restaurant or cafe that you like.",
+      "bulletPoints": [
+        "where it is",
+        "what kind of food or drinks it serves",
+        "when you go there",
+        "why you like it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "sport",
+      "topic": "Sports",
+      "cueCardId": "p2_25",
+      "cueCard": "Describe a sport or physical activity that you enjoy.",
+      "bulletPoints": [
+        "what it is",
+        "how often you do it",
+        "where you do it",
+        "why you enjoy it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "outdoor_activity",
+      "topic": "Outdoor Activities",
+      "cueCardId": "p2_26",
+      "cueCard": "Describe an outdoor activity you would like to try.",
+      "bulletPoints": [
+        "what the activity is",
+        "where you could do it",
+        "who you would like to do it with",
+        "why you would like to try it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "website_app",
+      "topic": "Websites and Apps",
+      "cueCardId": "p2_27",
+      "cueCard": "Describe a website or app that you find useful.",
+      "bulletPoints": [
+        "what it is",
+        "how you found it",
+        "what you use it for",
+        "why you find it useful"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "photo",
+      "topic": "Photography and Memories",
+      "cueCardId": "p2_28",
+      "cueCard": "Describe a photograph that is important to you.",
+      "bulletPoints": [
+        "what is shown in the photograph",
+        "when it was taken",
+        "who took it",
+        "why it is important to you"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "environment",
+      "topic": "Environment",
+      "cueCardId": "p2_29",
+      "cueCard": "Describe a place in nature that you would like to protect.",
+      "bulletPoints": [
+        "where it is",
+        "what it is like",
+        "what problems it faces",
+        "why you think it should be protected"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    },
+    {
+      "topicId": "future_goal",
+      "topic": "Future Plans",
+      "cueCardId": "p2_30",
+      "cueCard": "Describe a goal that you hope to achieve in the future.",
+      "bulletPoints": [
+        "what the goal is",
+        "why you want to achieve it",
+        "what you need to do",
+        "how you would feel if you achieved it"
+      ],
+      "finalPrompt": "and explain your answer in detail."
+    }
+  ]
+}

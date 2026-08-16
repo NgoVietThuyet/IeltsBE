@@ -1,0 +1,818 @@
+{
+  "part": 3,
+  "name": "Two-way Discussion",
+  "description": "More abstract discussion questions linked to the themes explored in Part 2.",
+  "recommendedDurationMinutes": "4-5",
+  "topics": [
+    {
+      "topicId": "people_inspire",
+      "topic": "People and Influence",
+      "linkedPart2CueCardId": "p2_01",
+      "questions": [
+        {
+          "id": "p3_01_q1",
+          "text": "Why do some people have a strong influence on others?"
+        },
+        {
+          "id": "p3_01_q2",
+          "text": "Are young people influenced more by family members or by people they see online?"
+        },
+        {
+          "id": "p3_01_q3",
+          "text": "What qualities make someone a good role model?"
+        },
+        {
+          "id": "p3_01_q4",
+          "text": "Can famous people have a negative influence on society?"
+        },
+        {
+          "id": "p3_01_q5",
+          "text": "Do people need role models at every stage of life?"
+        }
+      ]
+    },
+    {
+      "topicId": "helpful_person",
+      "topic": "Helping Others",
+      "linkedPart2CueCardId": "p2_02",
+      "questions": [
+        {
+          "id": "p3_02_q1",
+          "text": "Why are some people more willing to help others than other people are?"
+        },
+        {
+          "id": "p3_02_q2",
+          "text": "Do people today help their neighbours as much as in the past?"
+        },
+        {
+          "id": "p3_02_q3",
+          "text": "Should schools encourage students to do voluntary work?"
+        },
+        {
+          "id": "p3_02_q4",
+          "text": "What kinds of help should governments provide to people in difficulty?"
+        },
+        {
+          "id": "p3_02_q5",
+          "text": "Can helping others also benefit the person who gives the help?"
+        }
+      ]
+    },
+    {
+      "topicId": "interesting_person",
+      "topic": "Interesting People",
+      "linkedPart2CueCardId": "p2_03",
+      "questions": [
+        {
+          "id": "p3_03_q1",
+          "text": "What makes a person interesting to talk to?"
+        },
+        {
+          "id": "p3_03_q2",
+          "text": "Do people with different backgrounds usually learn from one another?"
+        },
+        {
+          "id": "p3_03_q3",
+          "text": "Has technology made it easier to meet interesting people?"
+        },
+        {
+          "id": "p3_03_q4",
+          "text": "Why are some people curious about other people's lives?"
+        },
+        {
+          "id": "p3_03_q5",
+          "text": "Is being a good listener as important as being a good speaker?"
+        }
+      ]
+    },
+    {
+      "topicId": "place_relax",
+      "topic": "Places and Relaxation",
+      "linkedPart2CueCardId": "p2_04",
+      "questions": [
+        {
+          "id": "p3_04_q1",
+          "text": "Why do people need places where they can relax?"
+        },
+        {
+          "id": "p3_04_q2",
+          "text": "Are public parks important in large cities?"
+        },
+        {
+          "id": "p3_04_q3",
+          "text": "How has the way people relax changed in recent decades?"
+        },
+        {
+          "id": "p3_04_q4",
+          "text": "Should companies provide spaces where employees can rest?"
+        },
+        {
+          "id": "p3_04_q5",
+          "text": "Do you think people will have more or less leisure time in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "beautiful_place",
+      "topic": "Beautiful Places",
+      "linkedPart2CueCardId": "p2_05",
+      "questions": [
+        {
+          "id": "p3_05_q1",
+          "text": "Why are people attracted to beautiful natural places?"
+        },
+        {
+          "id": "p3_05_q2",
+          "text": "Should governments limit the number of visitors to popular tourist sites?"
+        },
+        {
+          "id": "p3_05_q3",
+          "text": "How can tourism damage beautiful places?"
+        },
+        {
+          "id": "p3_05_q4",
+          "text": "Who should be responsible for protecting natural attractions?"
+        },
+        {
+          "id": "p3_05_q5",
+          "text": "Can a place remain attractive after it becomes highly developed?"
+        }
+      ]
+    },
+    {
+      "topicId": "city_visit",
+      "topic": "Cities",
+      "linkedPart2CueCardId": "p2_06",
+      "questions": [
+        {
+          "id": "p3_06_q1",
+          "text": "What makes a city attractive to visitors?"
+        },
+        {
+          "id": "p3_06_q2",
+          "text": "Why do some cities attract more tourists than others?"
+        },
+        {
+          "id": "p3_06_q3",
+          "text": "How can tourism benefit local residents?"
+        },
+        {
+          "id": "p3_06_q4",
+          "text": "What problems can large numbers of tourists create in cities?"
+        },
+        {
+          "id": "p3_06_q5",
+          "text": "How might cities change to become better places for both residents and visitors?"
+        }
+      ]
+    },
+    {
+      "topicId": "journey",
+      "topic": "Travel and Journeys",
+      "linkedPart2CueCardId": "p2_07",
+      "questions": [
+        {
+          "id": "p3_07_q1",
+          "text": "Why do people remember some journeys more than others?"
+        },
+        {
+          "id": "p3_07_q2",
+          "text": "How has transport changed the way people travel?"
+        },
+        {
+          "id": "p3_07_q3",
+          "text": "Do you think long-distance travel will become easier in the future?"
+        },
+        {
+          "id": "p3_07_q4",
+          "text": "What are the advantages of travelling slowly rather than quickly?"
+        },
+        {
+          "id": "p3_07_q5",
+          "text": "Should governments invest more in public transport or roads?"
+        }
+      ]
+    },
+    {
+      "topicId": "holiday",
+      "topic": "Holidays",
+      "linkedPart2CueCardId": "p2_08",
+      "questions": [
+        {
+          "id": "p3_08_q1",
+          "text": "Why are holidays important for people?"
+        },
+        {
+          "id": "p3_08_q2",
+          "text": "Do people in your country prefer domestic or international holidays?"
+        },
+        {
+          "id": "p3_08_q3",
+          "text": "How has social media changed the way people experience holidays?"
+        },
+        {
+          "id": "p3_08_q4",
+          "text": "Can tourism have negative effects on local cultures?"
+        },
+        {
+          "id": "p3_08_q5",
+          "text": "How might people's holiday habits change in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "useful_object",
+      "topic": "Useful Objects",
+      "linkedPart2CueCardId": "p2_09",
+      "questions": [
+        {
+          "id": "p3_09_q1",
+          "text": "Why do people become attached to certain possessions?"
+        },
+        {
+          "id": "p3_09_q2",
+          "text": "Do people own more things than they really need nowadays?"
+        },
+        {
+          "id": "p3_09_q3",
+          "text": "How has consumer culture changed people's attitudes to possessions?"
+        },
+        {
+          "id": "p3_09_q4",
+          "text": "Is it better to repair old items or replace them?"
+        },
+        {
+          "id": "p3_09_q5",
+          "text": "Do you think people will own fewer physical objects in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "gift",
+      "topic": "Gifts",
+      "linkedPart2CueCardId": "p2_10",
+      "questions": [
+        {
+          "id": "p3_10_q1",
+          "text": "Why do people give gifts?"
+        },
+        {
+          "id": "p3_10_q2",
+          "text": "Is the value of a gift related to its price?"
+        },
+        {
+          "id": "p3_10_q3",
+          "text": "How have gift-giving habits changed in recent years?"
+        },
+        {
+          "id": "p3_10_q4",
+          "text": "Are experiences better gifts than physical objects?"
+        },
+        {
+          "id": "p3_10_q5",
+          "text": "Should people feel obliged to give gifts on special occasions?"
+        }
+      ]
+    },
+    {
+      "topicId": "technology",
+      "topic": "Technology",
+      "linkedPart2CueCardId": "p2_11",
+      "questions": [
+        {
+          "id": "p3_11_q1",
+          "text": "How has technology changed everyday life?"
+        },
+        {
+          "id": "p3_11_q2",
+          "text": "Why do some people adopt new technology faster than others?"
+        },
+        {
+          "id": "p3_11_q3",
+          "text": "What problems can result from relying too much on technology?"
+        },
+        {
+          "id": "p3_11_q4",
+          "text": "Should children have limits on their use of digital devices?"
+        },
+        {
+          "id": "p3_11_q5",
+          "text": "What kinds of technology might become essential in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "book",
+      "topic": "Books and Reading",
+      "linkedPart2CueCardId": "p2_12",
+      "questions": [
+        {
+          "id": "p3_12_q1",
+          "text": "Why is reading important for children?"
+        },
+        {
+          "id": "p3_12_q2",
+          "text": "Do people read less because of digital entertainment?"
+        },
+        {
+          "id": "p3_12_q3",
+          "text": "What are the advantages of printed books compared with electronic books?"
+        },
+        {
+          "id": "p3_12_q4",
+          "text": "Should schools allow students to choose more of the books they read?"
+        },
+        {
+          "id": "p3_12_q5",
+          "text": "How might reading habits change in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "film",
+      "topic": "Films",
+      "linkedPart2CueCardId": "p2_13",
+      "questions": [
+        {
+          "id": "p3_13_q1",
+          "text": "Why are films an important form of entertainment?"
+        },
+        {
+          "id": "p3_13_q2",
+          "text": "Can films influence people's opinions and behaviour?"
+        },
+        {
+          "id": "p3_13_q3",
+          "text": "Why do some films become popular internationally?"
+        },
+        {
+          "id": "p3_13_q4",
+          "text": "Should governments support their national film industries?"
+        },
+        {
+          "id": "p3_13_q5",
+          "text": "Will cinemas remain important in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "song",
+      "topic": "Music",
+      "linkedPart2CueCardId": "p2_14",
+      "questions": [
+        {
+          "id": "p3_14_q1",
+          "text": "Why is music important in people's lives?"
+        },
+        {
+          "id": "p3_14_q2",
+          "text": "How does music taste differ between generations?"
+        },
+        {
+          "id": "p3_14_q3",
+          "text": "Why do some songs become popular around the world?"
+        },
+        {
+          "id": "p3_14_q4",
+          "text": "Should schools devote more time to music education?"
+        },
+        {
+          "id": "p3_14_q5",
+          "text": "How has technology changed the music industry?"
+        }
+      ]
+    },
+    {
+      "topicId": "skill",
+      "topic": "Skills and Learning",
+      "linkedPart2CueCardId": "p2_15",
+      "questions": [
+        {
+          "id": "p3_15_q1",
+          "text": "What skills are most important for young people today?"
+        },
+        {
+          "id": "p3_15_q2",
+          "text": "Should schools focus more on practical skills?"
+        },
+        {
+          "id": "p3_15_q3",
+          "text": "Why do adults sometimes find it difficult to learn new skills?"
+        },
+        {
+          "id": "p3_15_q4",
+          "text": "How has technology changed the skills needed at work?"
+        },
+        {
+          "id": "p3_15_q5",
+          "text": "Which skills do you think will become more important in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "course",
+      "topic": "Education",
+      "linkedPart2CueCardId": "p2_16",
+      "questions": [
+        {
+          "id": "p3_16_q1",
+          "text": "What makes a subject interesting to students?"
+        },
+        {
+          "id": "p3_16_q2",
+          "text": "Should students be allowed to choose most of the subjects they study?"
+        },
+        {
+          "id": "p3_16_q3",
+          "text": "What is the role of teachers when so much information is available online?"
+        },
+        {
+          "id": "p3_16_q4",
+          "text": "How can schools prepare students better for working life?"
+        },
+        {
+          "id": "p3_16_q5",
+          "text": "Do you think education will become more personalised in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "teacher",
+      "topic": "Teachers",
+      "linkedPart2CueCardId": "p2_17",
+      "questions": [
+        {
+          "id": "p3_17_q1",
+          "text": "What qualities make someone a good teacher?"
+        },
+        {
+          "id": "p3_17_q2",
+          "text": "Has the role of teachers changed because of technology?"
+        },
+        {
+          "id": "p3_17_q3",
+          "text": "Should teachers be responsible for students' motivation?"
+        },
+        {
+          "id": "p3_17_q4",
+          "text": "Why are some teachers remembered for many years?"
+        },
+        {
+          "id": "p3_17_q5",
+          "text": "Do you think artificial intelligence could replace some teaching tasks?"
+        }
+      ]
+    },
+    {
+      "topicId": "achievement",
+      "topic": "Achievement",
+      "linkedPart2CueCardId": "p2_18",
+      "questions": [
+        {
+          "id": "p3_18_q1",
+          "text": "Why is it important for people to have goals?"
+        },
+        {
+          "id": "p3_18_q2",
+          "text": "Do people define success differently at different ages?"
+        },
+        {
+          "id": "p3_18_q3",
+          "text": "Should parents reward children for their achievements?"
+        },
+        {
+          "id": "p3_18_q4",
+          "text": "Is competition necessary for people to succeed?"
+        },
+        {
+          "id": "p3_18_q5",
+          "text": "Can failure be as valuable as success?"
+        }
+      ]
+    },
+    {
+      "topicId": "challenge",
+      "topic": "Challenges",
+      "linkedPart2CueCardId": "p2_19",
+      "questions": [
+        {
+          "id": "p3_19_q1",
+          "text": "Why do some people enjoy difficult challenges?"
+        },
+        {
+          "id": "p3_19_q2",
+          "text": "Should children be encouraged to take on difficult tasks?"
+        },
+        {
+          "id": "p3_19_q3",
+          "text": "How can failure help people develop?"
+        },
+        {
+          "id": "p3_19_q4",
+          "text": "Are people today less willing to accept risk than in the past?"
+        },
+        {
+          "id": "p3_19_q5",
+          "text": "What kinds of challenges will society face in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "decision",
+      "topic": "Decisions",
+      "linkedPart2CueCardId": "p2_20",
+      "questions": [
+        {
+          "id": "p3_20_q1",
+          "text": "Why do some people find it difficult to make decisions?"
+        },
+        {
+          "id": "p3_20_q2",
+          "text": "Should young people make important decisions independently?"
+        },
+        {
+          "id": "p3_20_q3",
+          "text": "How much should people rely on advice from family and friends?"
+        },
+        {
+          "id": "p3_20_q4",
+          "text": "Has access to more information made decision-making easier or harder?"
+        },
+        {
+          "id": "p3_20_q5",
+          "text": "Which types of decisions should governments make for the public?"
+        }
+      ]
+    },
+    {
+      "topicId": "event",
+      "topic": "Events",
+      "linkedPart2CueCardId": "p2_21",
+      "questions": [
+        {
+          "id": "p3_21_q1",
+          "text": "Why are public events important for communities?"
+        },
+        {
+          "id": "p3_21_q2",
+          "text": "What makes an event successful?"
+        },
+        {
+          "id": "p3_21_q3",
+          "text": "How have online events changed the way people participate?"
+        },
+        {
+          "id": "p3_21_q4",
+          "text": "Should governments spend public money on large cultural or sporting events?"
+        },
+        {
+          "id": "p3_21_q5",
+          "text": "Do large events bring more benefits or problems to host cities?"
+        }
+      ]
+    },
+    {
+      "topicId": "celebration",
+      "topic": "Celebrations",
+      "linkedPart2CueCardId": "p2_22",
+      "questions": [
+        {
+          "id": "p3_22_q1",
+          "text": "Why are celebrations important in society?"
+        },
+        {
+          "id": "p3_22_q2",
+          "text": "How have traditional celebrations changed in recent years?"
+        },
+        {
+          "id": "p3_22_q3",
+          "text": "Do commercial businesses have too much influence on celebrations?"
+        },
+        {
+          "id": "p3_22_q4",
+          "text": "Should younger generations be encouraged to preserve traditional festivals?"
+        },
+        {
+          "id": "p3_22_q5",
+          "text": "Can national celebrations help create a sense of unity?"
+        }
+      ]
+    },
+    {
+      "topicId": "meal",
+      "topic": "Food and Meals",
+      "linkedPart2CueCardId": "p2_23",
+      "questions": [
+        {
+          "id": "p3_23_q1",
+          "text": "Why are shared meals important in many cultures?"
+        },
+        {
+          "id": "p3_23_q2",
+          "text": "Do families eat together less often than in the past?"
+        },
+        {
+          "id": "p3_23_q3",
+          "text": "How has fast food changed eating habits?"
+        },
+        {
+          "id": "p3_23_q4",
+          "text": "Should schools teach children more about food and nutrition?"
+        },
+        {
+          "id": "p3_23_q5",
+          "text": "How might people's eating habits change in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "restaurant",
+      "topic": "Restaurants",
+      "linkedPart2CueCardId": "p2_24",
+      "questions": [
+        {
+          "id": "p3_24_q1",
+          "text": "Why do people enjoy eating in restaurants?"
+        },
+        {
+          "id": "p3_24_q2",
+          "text": "What makes a restaurant successful?"
+        },
+        {
+          "id": "p3_24_q3",
+          "text": "How have food delivery apps affected restaurants?"
+        },
+        {
+          "id": "p3_24_q4",
+          "text": "Should traditional local food be protected from global food trends?"
+        },
+        {
+          "id": "p3_24_q5",
+          "text": "Do you think people will cook less at home in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "sport",
+      "topic": "Sports",
+      "linkedPart2CueCardId": "p2_25",
+      "questions": [
+        {
+          "id": "p3_25_q1",
+          "text": "Why is sport important for society?"
+        },
+        {
+          "id": "p3_25_q2",
+          "text": "Why are some sports much more popular than others?"
+        },
+        {
+          "id": "p3_25_q3",
+          "text": "Should professional athletes be considered role models?"
+        },
+        {
+          "id": "p3_25_q4",
+          "text": "How can governments encourage people to be more physically active?"
+        },
+        {
+          "id": "p3_25_q5",
+          "text": "Do you think competitive sport puts too much pressure on young people?"
+        }
+      ]
+    },
+    {
+      "topicId": "outdoor_activity",
+      "topic": "Outdoor Activities",
+      "linkedPart2CueCardId": "p2_26",
+      "questions": [
+        {
+          "id": "p3_26_q1",
+          "text": "Why do some people prefer outdoor activities to indoor activities?"
+        },
+        {
+          "id": "p3_26_q2",
+          "text": "Should schools include more outdoor education?"
+        },
+        {
+          "id": "p3_26_q3",
+          "text": "How does living in a city affect people's access to outdoor activities?"
+        },
+        {
+          "id": "p3_26_q4",
+          "text": "Can outdoor tourism harm the environment?"
+        },
+        {
+          "id": "p3_26_q5",
+          "text": "Will people spend more or less time outdoors in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "website_app",
+      "topic": "Websites and Apps",
+      "linkedPart2CueCardId": "p2_27",
+      "questions": [
+        {
+          "id": "p3_27_q1",
+          "text": "Why have apps become so important in everyday life?"
+        },
+        {
+          "id": "p3_27_q2",
+          "text": "What makes people trust or distrust a website or app?"
+        },
+        {
+          "id": "p3_27_q3",
+          "text": "Should technology companies be allowed to collect large amounts of user data?"
+        },
+        {
+          "id": "p3_27_q4",
+          "text": "How can digital services improve access to education and public services?"
+        },
+        {
+          "id": "p3_27_q5",
+          "text": "Do you think people will become more dependent on apps in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "photo",
+      "topic": "Photography and Memories",
+      "linkedPart2CueCardId": "p2_28",
+      "questions": [
+        {
+          "id": "p3_28_q1",
+          "text": "Why do people take so many photographs today?"
+        },
+        {
+          "id": "p3_28_q2",
+          "text": "Has taking photographs changed because of smartphones?"
+        },
+        {
+          "id": "p3_28_q3",
+          "text": "Do photographs help people remember events accurately?"
+        },
+        {
+          "id": "p3_28_q4",
+          "text": "Why are old family photographs important?"
+        },
+        {
+          "id": "p3_28_q5",
+          "text": "Do people spend too much time taking photos instead of experiencing events?"
+        }
+      ]
+    },
+    {
+      "topicId": "environment",
+      "topic": "Environment",
+      "linkedPart2CueCardId": "p2_29",
+      "questions": [
+        {
+          "id": "p3_29_q1",
+          "text": "Why is it difficult to protect natural areas?"
+        },
+        {
+          "id": "p3_29_q2",
+          "text": "Who should have the greatest responsibility for environmental protection?"
+        },
+        {
+          "id": "p3_29_q3",
+          "text": "How can governments encourage people to behave in more environmentally friendly ways?"
+        },
+        {
+          "id": "p3_29_q4",
+          "text": "Can economic development and environmental protection happen at the same time?"
+        },
+        {
+          "id": "p3_29_q5",
+          "text": "What environmental problems are likely to become more serious in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "future_goal",
+      "topic": "Future Plans",
+      "linkedPart2CueCardId": "p2_30",
+      "questions": [
+        {
+          "id": "p3_30_q1",
+          "text": "Why is it useful to set long-term goals?"
+        },
+        {
+          "id": "p3_30_q2",
+          "text": "Do young people today have different ambitions from previous generations?"
+        },
+        {
+          "id": "p3_30_q3",
+          "text": "How much does family influence people's career goals?"
+        },
+        {
+          "id": "p3_30_q4",
+          "text": "Is achieving a goal more important than enjoying the process?"
+        },
+        {
+          "id": "p3_30_q5",
+          "text": "How might people's ideas of success change in the future?"
+        }
+      ]
+    }
+  ]
+}

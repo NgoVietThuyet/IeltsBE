@@ -1,0 +1,672 @@
+{
+  "part": 1,
+  "name": "Introduction and Interview",
+  "description": "General questions about familiar, everyday topics.",
+  "recommendedDurationMinutes": "4-5",
+  "topics": [
+    {
+      "topicId": "p1_hometown",
+      "topic": "Hometown",
+      "questions": [
+        {
+          "id": "p1_hometown_q1",
+          "text": "Where is your hometown?"
+        },
+        {
+          "id": "p1_hometown_q2",
+          "text": "What do you like most about your hometown?"
+        },
+        {
+          "id": "p1_hometown_q3",
+          "text": "Has your hometown changed much in recent years?"
+        },
+        {
+          "id": "p1_hometown_q4",
+          "text": "Is your hometown a good place for young people?"
+        },
+        {
+          "id": "p1_hometown_q5",
+          "text": "Would you like to live in your hometown in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_home",
+      "topic": "Home and Accommodation",
+      "questions": [
+        {
+          "id": "p1_home_q1",
+          "text": "Do you live in a house or an apartment?"
+        },
+        {
+          "id": "p1_home_q2",
+          "text": "What is your favourite room in your home?"
+        },
+        {
+          "id": "p1_home_q3",
+          "text": "Is there anything you would like to change about your home?"
+        },
+        {
+          "id": "p1_home_q4",
+          "text": "What kind of home would you like to live in in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_work_study",
+      "topic": "Work or Study",
+      "questions": [
+        {
+          "id": "p1_work_study_q1",
+          "text": "Do you work or are you a student?"
+        },
+        {
+          "id": "p1_work_study_q2",
+          "text": "What do you enjoy most about your work or studies?"
+        },
+        {
+          "id": "p1_work_study_q3",
+          "text": "Is there anything you find difficult about your work or studies?"
+        },
+        {
+          "id": "p1_work_study_q4",
+          "text": "What would you like to do in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_family",
+      "topic": "Family",
+      "questions": [
+        {
+          "id": "p1_family_q1",
+          "text": "Do you have a large family?"
+        },
+        {
+          "id": "p1_family_q2",
+          "text": "Who are you closest to in your family?"
+        },
+        {
+          "id": "p1_family_q3",
+          "text": "What do you usually do with your family?"
+        },
+        {
+          "id": "p1_family_q4",
+          "text": "Do you think families spend enough time together nowadays?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_friends",
+      "topic": "Friends",
+      "questions": [
+        {
+          "id": "p1_friends_q1",
+          "text": "Do you spend much time with your friends?"
+        },
+        {
+          "id": "p1_friends_q2",
+          "text": "What do you usually do together?"
+        },
+        {
+          "id": "p1_friends_q3",
+          "text": "What qualities do you value in a friend?"
+        },
+        {
+          "id": "p1_friends_q4",
+          "text": "Do you prefer having a few close friends or many friends?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_free_time",
+      "topic": "Free Time",
+      "questions": [
+        {
+          "id": "p1_free_time_q1",
+          "text": "What do you usually do in your free time?"
+        },
+        {
+          "id": "p1_free_time_q2",
+          "text": "Do you have enough free time?"
+        },
+        {
+          "id": "p1_free_time_q3",
+          "text": "Do you prefer spending free time alone or with other people?"
+        },
+        {
+          "id": "p1_free_time_q4",
+          "text": "Has the way you spend your free time changed over the years?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_hobbies",
+      "topic": "Hobbies",
+      "questions": [
+        {
+          "id": "p1_hobbies_q1",
+          "text": "Do you have any hobbies?"
+        },
+        {
+          "id": "p1_hobbies_q2",
+          "text": "How did you become interested in your hobby?"
+        },
+        {
+          "id": "p1_hobbies_q3",
+          "text": "How often do you spend time on it?"
+        },
+        {
+          "id": "p1_hobbies_q4",
+          "text": "Is there a hobby you would like to try in the future?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_music",
+      "topic": "Music",
+      "questions": [
+        {
+          "id": "p1_music_q1",
+          "text": "Do you often listen to music?"
+        },
+        {
+          "id": "p1_music_q2",
+          "text": "What kind of music do you like?"
+        },
+        {
+          "id": "p1_music_q3",
+          "text": "When do you usually listen to music?"
+        },
+        {
+          "id": "p1_music_q4",
+          "text": "Have your musical tastes changed since you were younger?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_books",
+      "topic": "Books and Reading",
+      "questions": [
+        {
+          "id": "p1_books_q1",
+          "text": "Do you enjoy reading?"
+        },
+        {
+          "id": "p1_books_q2",
+          "text": "What kind of books do you usually read?"
+        },
+        {
+          "id": "p1_books_q3",
+          "text": "Do you prefer printed books or e-books?"
+        },
+        {
+          "id": "p1_books_q4",
+          "text": "Did you read more when you were a child?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_films",
+      "topic": "Films",
+      "questions": [
+        {
+          "id": "p1_films_q1",
+          "text": "Do you enjoy watching films?"
+        },
+        {
+          "id": "p1_films_q2",
+          "text": "What kinds of films do you like?"
+        },
+        {
+          "id": "p1_films_q3",
+          "text": "Do you prefer watching films at home or at the cinema?"
+        },
+        {
+          "id": "p1_films_q4",
+          "text": "Have your preferences in films changed over time?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_tv",
+      "topic": "Television and Streaming",
+      "questions": [
+        {
+          "id": "p1_tv_q1",
+          "text": "How often do you watch television or streaming services?"
+        },
+        {
+          "id": "p1_tv_q2",
+          "text": "What types of programmes do you enjoy?"
+        },
+        {
+          "id": "p1_tv_q3",
+          "text": "Do you usually watch programmes alone or with others?"
+        },
+        {
+          "id": "p1_tv_q4",
+          "text": "Do you think you spend too much time watching screens?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_food",
+      "topic": "Food",
+      "questions": [
+        {
+          "id": "p1_food_q1",
+          "text": "What kind of food do you enjoy eating?"
+        },
+        {
+          "id": "p1_food_q2",
+          "text": "Do you prefer eating at home or in restaurants?"
+        },
+        {
+          "id": "p1_food_q3",
+          "text": "Is there any food you disliked as a child but like now?"
+        },
+        {
+          "id": "p1_food_q4",
+          "text": "Do you enjoy trying food from other countries?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_cooking",
+      "topic": "Cooking",
+      "questions": [
+        {
+          "id": "p1_cooking_q1",
+          "text": "Do you like cooking?"
+        },
+        {
+          "id": "p1_cooking_q2",
+          "text": "How often do you cook?"
+        },
+        {
+          "id": "p1_cooking_q3",
+          "text": "Who usually cooks in your home?"
+        },
+        {
+          "id": "p1_cooking_q4",
+          "text": "What dish would you like to learn to cook well?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_weather",
+      "topic": "Weather",
+      "questions": [
+        {
+          "id": "p1_weather_q1",
+          "text": "What kind of weather do you like most?"
+        },
+        {
+          "id": "p1_weather_q2",
+          "text": "What is the weather usually like where you live?"
+        },
+        {
+          "id": "p1_weather_q3",
+          "text": "Does the weather affect your mood?"
+        },
+        {
+          "id": "p1_weather_q4",
+          "text": "Do you prefer hot weather or cold weather?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_seasons",
+      "topic": "Seasons",
+      "questions": [
+        {
+          "id": "p1_seasons_q1",
+          "text": "What is your favourite season?"
+        },
+        {
+          "id": "p1_seasons_q2",
+          "text": "What do you usually do during that season?"
+        },
+        {
+          "id": "p1_seasons_q3",
+          "text": "Are the seasons very different where you live?"
+        },
+        {
+          "id": "p1_seasons_q4",
+          "text": "Has your favourite season changed since childhood?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_travel",
+      "topic": "Travel",
+      "questions": [
+        {
+          "id": "p1_travel_q1",
+          "text": "Do you enjoy travelling?"
+        },
+        {
+          "id": "p1_travel_q2",
+          "text": "How often do you travel?"
+        },
+        {
+          "id": "p1_travel_q3",
+          "text": "What kind of places do you like visiting?"
+        },
+        {
+          "id": "p1_travel_q4",
+          "text": "Do you prefer travelling alone or with other people?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_transport",
+      "topic": "Transport",
+      "questions": [
+        {
+          "id": "p1_transport_q1",
+          "text": "How do you usually get around your city?"
+        },
+        {
+          "id": "p1_transport_q2",
+          "text": "What form of transport do you use most often?"
+        },
+        {
+          "id": "p1_transport_q3",
+          "text": "Is public transport convenient where you live?"
+        },
+        {
+          "id": "p1_transport_q4",
+          "text": "Would you like to change the way you travel every day?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_shopping",
+      "topic": "Shopping",
+      "questions": [
+        {
+          "id": "p1_shopping_q1",
+          "text": "Do you enjoy shopping?"
+        },
+        {
+          "id": "p1_shopping_q2",
+          "text": "What do you usually shop for?"
+        },
+        {
+          "id": "p1_shopping_q3",
+          "text": "Do you prefer shopping online or in stores?"
+        },
+        {
+          "id": "p1_shopping_q4",
+          "text": "Has the way you shop changed in recent years?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_clothes",
+      "topic": "Clothes",
+      "questions": [
+        {
+          "id": "p1_clothes_q1",
+          "text": "Are clothes important to you?"
+        },
+        {
+          "id": "p1_clothes_q2",
+          "text": "What kind of clothes do you usually wear?"
+        },
+        {
+          "id": "p1_clothes_q3",
+          "text": "Do you prefer comfortable or fashionable clothes?"
+        },
+        {
+          "id": "p1_clothes_q4",
+          "text": "Do you enjoy buying new clothes?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_sports",
+      "topic": "Sports",
+      "questions": [
+        {
+          "id": "p1_sports_q1",
+          "text": "Do you play any sports?"
+        },
+        {
+          "id": "p1_sports_q2",
+          "text": "What sports are popular in your country?"
+        },
+        {
+          "id": "p1_sports_q3",
+          "text": "Did you play more sports when you were younger?"
+        },
+        {
+          "id": "p1_sports_q4",
+          "text": "Do you prefer individual sports or team sports?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_exercise",
+      "topic": "Exercise",
+      "questions": [
+        {
+          "id": "p1_exercise_q1",
+          "text": "How often do you exercise?"
+        },
+        {
+          "id": "p1_exercise_q2",
+          "text": "What kind of exercise do you enjoy?"
+        },
+        {
+          "id": "p1_exercise_q3",
+          "text": "Do you prefer exercising indoors or outdoors?"
+        },
+        {
+          "id": "p1_exercise_q4",
+          "text": "What makes it difficult for people to exercise regularly?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_technology",
+      "topic": "Technology",
+      "questions": [
+        {
+          "id": "p1_technology_q1",
+          "text": "What technology do you use every day?"
+        },
+        {
+          "id": "p1_technology_q2",
+          "text": "Which device is most useful to you?"
+        },
+        {
+          "id": "p1_technology_q3",
+          "text": "Do you find it easy to learn how to use new technology?"
+        },
+        {
+          "id": "p1_technology_q4",
+          "text": "Is there any technology you would like to use less?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_mobile_phones",
+      "topic": "Mobile Phones",
+      "questions": [
+        {
+          "id": "p1_mobile_phones_q1",
+          "text": "How often do you use your mobile phone?"
+        },
+        {
+          "id": "p1_mobile_phones_q2",
+          "text": "What do you mainly use your phone for?"
+        },
+        {
+          "id": "p1_mobile_phones_q3",
+          "text": "Could you live without your phone for a day?"
+        },
+        {
+          "id": "p1_mobile_phones_q4",
+          "text": "Do you think people use mobile phones too much?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_social_media",
+      "topic": "Social Media",
+      "questions": [
+        {
+          "id": "p1_social_media_q1",
+          "text": "Do you use social media?"
+        },
+        {
+          "id": "p1_social_media_q2",
+          "text": "What do you usually use it for?"
+        },
+        {
+          "id": "p1_social_media_q3",
+          "text": "How much time do you spend on social media?"
+        },
+        {
+          "id": "p1_social_media_q4",
+          "text": "Has social media changed the way you keep in touch with people?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_mornings",
+      "topic": "Mornings",
+      "questions": [
+        {
+          "id": "p1_mornings_q1",
+          "text": "Do you usually get up early?"
+        },
+        {
+          "id": "p1_mornings_q2",
+          "text": "What is the first thing you do in the morning?"
+        },
+        {
+          "id": "p1_mornings_q3",
+          "text": "Do you prefer mornings or evenings?"
+        },
+        {
+          "id": "p1_mornings_q4",
+          "text": "Has your morning routine changed recently?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_weekends",
+      "topic": "Weekends",
+      "questions": [
+        {
+          "id": "p1_weekends_q1",
+          "text": "What do you usually do at weekends?"
+        },
+        {
+          "id": "p1_weekends_q2",
+          "text": "Are your weekends usually busy or relaxing?"
+        },
+        {
+          "id": "p1_weekends_q3",
+          "text": "Do you prefer staying at home or going out at weekends?"
+        },
+        {
+          "id": "p1_weekends_q4",
+          "text": "What would your ideal weekend be like?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_holidays",
+      "topic": "Holidays",
+      "questions": [
+        {
+          "id": "p1_holidays_q1",
+          "text": "Do you enjoy holidays?"
+        },
+        {
+          "id": "p1_holidays_q2",
+          "text": "What do you usually do during holidays?"
+        },
+        {
+          "id": "p1_holidays_q3",
+          "text": "Do you prefer short breaks or long holidays?"
+        },
+        {
+          "id": "p1_holidays_q4",
+          "text": "What was the last holiday you really enjoyed?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_photography",
+      "topic": "Photography",
+      "questions": [
+        {
+          "id": "p1_photography_q1",
+          "text": "Do you like taking photographs?"
+        },
+        {
+          "id": "p1_photography_q2",
+          "text": "What do you usually take photos of?"
+        },
+        {
+          "id": "p1_photography_q3",
+          "text": "Do you prefer taking photos or being in photos?"
+        },
+        {
+          "id": "p1_photography_q4",
+          "text": "Do you often look at old photographs?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_plants",
+      "topic": "Plants and Flowers",
+      "questions": [
+        {
+          "id": "p1_plants_q1",
+          "text": "Do you like plants or flowers?"
+        },
+        {
+          "id": "p1_plants_q2",
+          "text": "Do you keep any plants at home?"
+        },
+        {
+          "id": "p1_plants_q3",
+          "text": "Have you ever grown a plant yourself?"
+        },
+        {
+          "id": "p1_plants_q4",
+          "text": "Are flowers commonly given as gifts in your country?"
+        }
+      ]
+    },
+    {
+      "topicId": "p1_languages",
+      "topic": "Languages",
+      "questions": [
+        {
+          "id": "p1_languages_q1",
+          "text": "What languages can you speak?"
+        },
+        {
+          "id": "p1_languages_q2",
+          "text": "Why are you learning English?"
+        },
+        {
+          "id": "p1_languages_q3",
+          "text": "What is the most difficult part of learning a language for you?"
+        },
+        {
+          "id": "p1_languages_q4",
+          "text": "Would you like to learn another language in the future?"
+        }
+      ]
+    }
+  ]
+}
