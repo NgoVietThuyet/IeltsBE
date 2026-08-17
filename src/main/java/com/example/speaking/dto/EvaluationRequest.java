@@ -10,5 +10,7 @@ public record EvaluationRequest(
         @NotBlank @Size(max = 2000) String question,
         @NotBlank @Size(max = 10000) String transcript,
         @Min(1) @Max(3) int part,
-        Boolean hasAudio
+        Boolean hasAudio,
+        @Size(max = 20000000) String audioBase64,
+        @Size(max = 100) String audioMimeType
 ) {}

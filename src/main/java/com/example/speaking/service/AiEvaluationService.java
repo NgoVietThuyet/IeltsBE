@@ -7,6 +7,7 @@ import com.example.speaking.dto.CriterionFeedback;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.List;
+import java.util.ArrayList;
 import java.util.Map;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;
@@ -29,13 +30,13 @@ public class AiEvaluationService {
                 Evaluate this IELTS Speaking Part %d answer.
                 Question: %s
                 Candidate transcript: %s
-                Pronunciation evidence: unavailable because this evaluation receives transcript only.
+                Pronunciation evidence: %s
 
                 Return ONLY JSON with this exact shape:
                 {"overallBand":6.0,"fluency":{"band":6.0,"feedback":"..."},
                 "vocabulary":{"band":6.0,"feedback":"..."},
                 "grammar":{"band":6.0,"feedback":"..."},
-                "pronunciation":{"band":null,"feedback":"Pronunciation cannot be assessed from transcript alone."},
+                "pronunciation":{"band":null,"feedback":"..."},
                 "mistakes":[{"original":"...","corrected":"...","explanation":"..."}],
                 "betterAnswer":"...","assessmentNote":"Text-based estimate only."}
 
@@ -64,6 +65,16 @@ public class AiEvaluationService {
                 - Band 7: range of structures used flexibly; frequent error-free sentences; simple and complex sentences are effective despite some errors.
                 - Band 8: wide range used flexibly; majority of sentences error-free; only occasional non-systematic errors.
 
+                Pronunciation:
+                - If audio is unavailable, return band null and state that pronunciation cannot be assessed from transcript.
+                - If audio is available, assess intelligibility, listener effort, sound accuracy, word stress, sentence stress,
+                  rhythm, intonation, and connected speech using the official IELTS public descriptors.
+                - Band 4: limited phonological control; frequent mispronunciation; listener strain; some unintelligible speech.
+                - Band 5: generally intelligible but limited range/control; mispronunciation causes some listener strain.
+                - Band 6: generally understandable throughout; some effective features; occasional mispronunciation reduces clarity.
+                - Band 7: all Band 6 strengths plus some Band 8 features; generally easy to understand.
+                - Band 8: wide phonological range; sustained rhythm/stress/intonation; easily understood with minimal accent effect.
+
                 Strict scoring rules:
                 - Score only language actually demonstrated in the transcript. Never infer skills that are not evidenced.
                 - A grammatically correct but very short answer is NOT evidence of Band 6+ fluency, vocabulary range, or grammar range.
@@ -86,14 +97,22 @@ public class AiEvaluationService {
                 - If the transcript contains no usable answer and only repeats the question, create a relevant Band 6.0 sample answer
                   for that exact question and do not introduce a different prompt.
                 """
-                .formatted(request.part(), request.question(), request.transcript(), request.part());
+                .formatted(request.part(), request.question(), request.transcript(),
+                        hasUsableAudio(request) ? "audio recording attached; assess it directly" : "unavailable", request.part());
 
         if (properties.gemini().apiKey() == null || properties.gemini().apiKey().isBlank()) {
             throw new AiServiceException("GEMINI_API_KEY is not configured", null);
         }
+        List<Map<String, Object>> contentParts = new ArrayList<>();
+        contentParts.add(Map.of("text", prompt));
+        if (hasUsableAudio(request)) {
+            contentParts.add(Map.of("inlineData", Map.of(
+                    "mimeType", request.audioMimeType(),
+                    "data", request.audioBase64())));
+        }
         Map<String, Object> body = Map.of(
                 "systemInstruction", Map.of("parts", List.of(Map.of("text", properties.gemini().systemPrompt()))),
-                "contents", List.of(Map.of("role", "user", "parts", List.of(Map.of("text", prompt)))),
+                "contents", List.of(Map.of("role", "user", "parts", contentParts)),
                 "generationConfig", Map.of("responseMimeType", "application/json"));
 
         try {
@@ -168,6 +187,12 @@ public class AiEvaluationService {
                 : "Estimated from all four equally weighted IELTS Speaking criteria; this is not an official IELTS score.";
         return new EvaluationResponse(overall, fluencyFeedback, vocabularyFeedback, grammarFeedback,
                 pronunciationFeedback, response.mistakes(), response.betterAnswer(), note);
+    }
+
+    private boolean hasUsableAudio(EvaluationRequest request) {
+        return Boolean.TRUE.equals(request.hasAudio())
+                && request.audioBase64() != null && !request.audioBase64().isBlank()
+                && request.audioMimeType() != null && !request.audioMimeType().isBlank();
     }
 
     private CriterionFeedback normalizeCriterion(CriterionFeedback criterion, String name) {
