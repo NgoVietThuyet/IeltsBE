@@ -1,399 +1,625 @@
 {
   "part": 2,
-  "name": "Individual Long Turn",
-  "description": "The candidate receives a cue card, has 1 minute to prepare, and speaks for up to 2 minutes.",
-  "preparationSeconds": 60,
-  "speakingSeconds": 120,
+  "source": "BỘ DỰ ĐOÁN ĐỀ THI IELTS SPEAKING QUÝ 2 (THÁNG 5 - THÁNG 8) NĂM 2026 BY NGOCBACH BẢN FINAL",
   "topics": [
     {
-      "topicId": "people_inspire",
-      "topic": "People and Influence",
-      "cueCardId": "p2_01",
-      "cueCard": "Describe a person who has had a positive influence on you.",
-      "bulletPoints": [
-        "who the person is",
-        "how you know this person",
-        "what qualities this person has",
-        "how this person influenced you"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 1,
+      "topic": "Describe a time when you felt very proud of something a family member did",
+      "cue_points": [
+        "Who the family member was",
+        "What he/she did",
+        "Where and when this happened",
+        "And explain why you felt so proud of what your family member did"
+      ]
     },
     {
-      "topicId": "helpful_person",
-      "topic": "Helping Others",
-      "cueCardId": "p2_02",
-      "cueCard": "Describe a person who helped you at an important time.",
-      "bulletPoints": [
-        "who the person was",
-        "when they helped you",
-        "what they did",
-        "why their help was important to you"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 2,
+      "topic": "Describe a time when you were not allowed to use your phone",
+      "cue_points": [
+        "Where you were",
+        "Why you couldn't use it",
+        "And explain how you felt about it"
+      ]
     },
     {
-      "topicId": "interesting_person",
-      "topic": "Interesting People",
-      "cueCardId": "p2_03",
-      "cueCard": "Describe an interesting person you have met.",
-      "bulletPoints": [
-        "who the person is",
-        "where you met",
-        "what you talked about",
-        "why you found the person interesting"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 3,
+      "topic": "Describe a perfect job you would like to have in the future",
+      "cue_points": [
+        "What the job is",
+        "How you knew it",
+        "What skills you need for this job",
+        "And explain why it would be the perfect job for you"
+      ]
     },
     {
-      "topicId": "place_relax",
-      "topic": "Places and Relaxation",
-      "cueCardId": "p2_04",
-      "cueCard": "Describe a place where you like to go to relax.",
-      "bulletPoints": [
-        "where the place is",
-        "how often you go there",
-        "what you do there",
-        "why you find it relaxing"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 4,
+      "topic": "Describe an occasion you remember when you saw a lot of people smiling",
+      "cue_points": [
+        "Where you were and when it happened",
+        "Who you were with",
+        "What happened",
+        "And explain why you remember this occasion when people smiled"
+      ]
     },
     {
-      "topicId": "beautiful_place",
-      "topic": "Beautiful Places",
-      "cueCardId": "p2_05",
-      "cueCard": "Describe a beautiful place you have visited.",
-      "bulletPoints": [
-        "where it is",
-        "when you visited it",
-        "what you saw there",
-        "why you thought it was beautiful"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 5,
+      "topic": "Describe a famous person who you would like to meet",
+      "cue_points": [
+        "Who he/she is and what he/she does",
+        "What he/she is famous for",
+        "How long this person has been famous",
+        "And explain why you would like to meet this famous person"
+      ]
     },
     {
-      "topicId": "city_visit",
-      "topic": "Cities",
-      "cueCardId": "p2_06",
-      "cueCard": "Describe a city you would like to visit in the future.",
-      "bulletPoints": [
-        "which city it is",
-        "where it is",
-        "what you know about it",
-        "why you would like to visit it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 6,
+      "topic": "Describe a person you know who enjoys helping other people",
+      "cue_points": [
+        "Who this person is",
+        "What this person does to help others",
+        "How often this person helps others",
+        "And explain why you think this person likes to help other people"
+      ]
     },
     {
-      "topicId": "journey",
-      "topic": "Travel and Journeys",
-      "cueCardId": "p2_07",
-      "cueCard": "Describe a journey that you remember well.",
-      "bulletPoints": [
-        "where you went",
-        "how you travelled",
-        "who you travelled with",
-        "why you remember the journey"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 7,
+      "topic": "Describe an app or software you often use on your phone or computer",
+      "cue_points": [
+        "What it is",
+        "How long you have used it",
+        "How you use it",
+        "And explain how you feel about it"
+      ]
     },
     {
-      "topicId": "holiday",
-      "topic": "Holidays",
-      "cueCardId": "p2_08",
-      "cueCard": "Describe a holiday that you really enjoyed.",
-      "bulletPoints": [
-        "where you went",
-        "who you went with",
-        "what you did",
-        "why you enjoyed it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 8,
+      "topic": "Describe a movie you enjoyed watching",
+      "cue_points": [
+        "Where and when you saw it",
+        "Who you saw the movie with",
+        "What the movie was about",
+        "And explain why you enjoyed watching this movie"
+      ]
     },
     {
-      "topicId": "useful_object",
-      "topic": "Useful Objects",
-      "cueCardId": "p2_09",
-      "cueCard": "Describe an object that is very useful to you.",
-      "bulletPoints": [
-        "what the object is",
-        "when you got it",
-        "how you use it",
-        "why it is useful to you"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 9,
+      "topic": "Describe a time you needed to use your imagination",
+      "cue_points": [
+        "What you needed to do",
+        "Why you had to use your imagination",
+        "Was it easy or difficult to do this",
+        "And explain how you felt about it"
+      ]
     },
     {
-      "topicId": "gift",
-      "topic": "Gifts",
-      "cueCardId": "p2_10",
-      "cueCard": "Describe a gift you received that you really liked.",
-      "bulletPoints": [
-        "what the gift was",
-        "who gave it to you",
-        "when you received it",
-        "why you liked it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 10,
+      "topic": "Describe a car, motorbike or bicycle trip that you think would be interesting",
+      "cue_points": [
+        "Where you want to go",
+        "Who you want to go with",
+        "How easy or difficult the trip would be",
+        "And explain why you think using a car, motorbike or bicycle for this trip would be interesting"
+      ]
     },
     {
-      "topicId": "technology",
-      "topic": "Technology",
-      "cueCardId": "p2_11",
-      "cueCard": "Describe a piece of technology that you use often.",
-      "bulletPoints": [
-        "what it is",
-        "when you started using it",
-        "what you use it for",
-        "why it is important to you"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 11,
+      "topic": "Describe a place you enjoyed visiting that was very quiet",
+      "cue_points": [
+        "When you went there",
+        "Where this place is and why you wanted to visit it",
+        "What you will do when you go there",
+        "And explain why you enjoyed visiting this place"
+      ]
     },
     {
-      "topicId": "book",
-      "topic": "Books and Reading",
-      "cueCardId": "p2_12",
-      "cueCard": "Describe a book that you enjoyed reading.",
-      "bulletPoints": [
-        "what the book was",
-        "when you read it",
-        "what it was about",
-        "why you enjoyed it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 12,
+      "topic": "Describe a person who learned something new without a teacher",
+      "cue_points": [
+        "Who he/she is and how you know him/her",
+        "What he/she learned",
+        "Is it easy to learn this skill",
+        "And explain how you feel about him/her"
+      ]
     },
     {
-      "topicId": "film",
-      "topic": "Films",
-      "cueCardId": "p2_13",
-      "cueCard": "Describe a film that you remember well.",
-      "bulletPoints": [
-        "what the film was",
-        "when you watched it",
-        "what it was about",
-        "why you remember it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 13,
+      "topic": "Describe a person who you think is good at planning things",
+      "cue_points": [
+        "Who he/she is and how you know him/her",
+        "What does this person usually plan",
+        "What this person does to plan things",
+        "And explain why you think this person is good at planning things"
+      ]
     },
     {
-      "topicId": "song",
-      "topic": "Music",
-      "cueCardId": "p2_14",
-      "cueCard": "Describe a song or piece of music that is special to you.",
-      "bulletPoints": [
-        "what it is",
-        "when you first heard it",
-        "when you usually listen to it",
-        "why it is special to you"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 14,
+      "topic": "Describe a child you know who enjoys painting or drawing",
+      "cue_points": [
+        "Who he/she is and how you know him/her",
+        "What kinds of things this child paints or draws",
+        "How often this child paints or draws",
+        "And explain why you think this child likes painting or drawing"
+      ]
     },
     {
-      "topicId": "skill",
-      "topic": "Skills and Learning",
-      "cueCardId": "p2_15",
-      "cueCard": "Describe a skill you learned that is useful to you.",
-      "bulletPoints": [
-        "what the skill is",
-        "when you learned it",
-        "how you learned it",
-        "why it is useful"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 15,
+      "topic": "Describe a shopping place you often go to",
+      "cue_points": [
+        "Where it is",
+        "How often you go there",
+        "What you usually buy there",
+        "And explain why you think this place you go to is so good for shopping"
+      ]
     },
     {
-      "topicId": "course",
-      "topic": "Education",
-      "cueCardId": "p2_16",
-      "cueCard": "Describe a course or subject that you enjoyed studying.",
-      "bulletPoints": [
-        "what the course or subject was",
-        "where you studied it",
-        "what you learned",
-        "why you enjoyed it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 16,
+      "topic": "Describe a place in another country where you would like to work for a short time",
+      "cue_points": [
+        "Where it is",
+        "How you know about it",
+        "What you would like to do there",
+        "And explain why you want to work there for a short period of time"
+      ]
     },
     {
-      "topicId": "teacher",
-      "topic": "Teachers",
-      "cueCardId": "p2_17",
-      "cueCard": "Describe a teacher who you remember well.",
-      "bulletPoints": [
-        "who the teacher was",
-        "what they taught you",
-        "what they were like",
-        "why you remember them"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 17,
+      "topic": "Describe a time you gave advice to someone",
+      "cue_points": [
+        "When and who you gave the advice to",
+        "What the advice was",
+        "Why you gave it",
+        "And explain how this person felt about the advice you gave"
+      ]
     },
     {
-      "topicId": "achievement",
-      "topic": "Achievement",
-      "cueCardId": "p2_18",
-      "cueCard": "Describe something you achieved that made you feel proud.",
-      "bulletPoints": [
-        "what you achieved",
-        "when it happened",
-        "what you did to achieve it",
-        "why it made you feel proud"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 18,
+      "topic": "Describe a piece of technology you would like to own in the future",
+      "cue_points": [
+        "What it is",
+        "How you knew about it",
+        "What you would use it for",
+        "And explain why you would like to own it"
+      ]
     },
     {
-      "topicId": "challenge",
-      "topic": "Challenges",
-      "cueCardId": "p2_19",
-      "cueCard": "Describe a difficult task that you successfully completed.",
-      "bulletPoints": [
-        "what the task was",
-        "why it was difficult",
-        "what you did",
-        "how you felt after completing it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 19,
+      "topic": "Describe an event you took part in but it had some music that you didn't like",
+      "cue_points": [
+        "What it was",
+        "When it was",
+        "Who you went with",
+        "And explain why you didn't like its music"
+      ]
     },
     {
-      "topicId": "decision",
-      "topic": "Decisions",
-      "cueCardId": "p2_20",
-      "cueCard": "Describe an important decision you made.",
-      "bulletPoints": [
-        "what the decision was",
-        "when you made it",
-        "what influenced your decision",
-        "why it was important"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 20,
+      "topic": "Describe a TV or online programme that you enjoy watching",
+      "cue_points": [
+        "What it is about",
+        "How often you watch it",
+        "Which country the programme comes from",
+        "And explain why you enjoy watching this TV or online programme"
+      ]
     },
     {
-      "topicId": "event",
-      "topic": "Events",
-      "cueCardId": "p2_21",
-      "cueCard": "Describe an event that you enjoyed attending.",
-      "bulletPoints": [
-        "what the event was",
-        "where and when it happened",
-        "who you went with",
-        "why you enjoyed it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 21,
+      "topic": "Describe a time when you had to pay more than you expected for something",
+      "cue_points": [
+        "What you bought",
+        "How you felt when you saw the price",
+        "What you did about it",
+        "And explain why you think you had paid more than you expected"
+      ]
     },
     {
-      "topicId": "celebration",
-      "topic": "Celebrations",
-      "cueCardId": "p2_22",
-      "cueCard": "Describe a celebration that is important to you.",
-      "bulletPoints": [
-        "what the celebration is",
-        "when it takes place",
-        "what people usually do",
-        "why it is important to you"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 22,
+      "topic": "Describe a city that you have been to and enjoy visiting",
+      "cue_points": [
+        "Where the city is",
+        "What you did there",
+        "How many times you have been there",
+        "And explain why you really enjoyed visiting this city"
+      ]
     },
     {
-      "topicId": "meal",
-      "topic": "Food and Meals",
-      "cueCardId": "p2_23",
-      "cueCard": "Describe a memorable meal you had.",
-      "bulletPoints": [
-        "where you had the meal",
-        "who you ate with",
-        "what you ate",
-        "why the meal was memorable"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 23,
+      "topic": "Describe a time when someone you know found a clever solution to a problem",
+      "cue_points": [
+        "Who the person is",
+        "What the problem was",
+        "How he/she solved it",
+        "And explain why you think this was a clever solution to the problem"
+      ]
     },
     {
-      "topicId": "restaurant",
-      "topic": "Restaurants",
-      "cueCardId": "p2_24",
-      "cueCard": "Describe a restaurant or cafe that you like.",
-      "bulletPoints": [
-        "where it is",
-        "what kind of food or drinks it serves",
-        "when you go there",
-        "why you like it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 24,
+      "topic": "Describe a person you know who encourages people to protect the environment or nature",
+      "cue_points": [
+        "Who the person is",
+        "How this person encourages people to protect the environment or nature",
+        "How long this person has been doing this",
+        "And explain how you feel about this person"
+      ]
     },
     {
-      "topicId": "sport",
-      "topic": "Sports",
-      "cueCardId": "p2_25",
-      "cueCard": "Describe a sport or physical activity that you enjoy.",
-      "bulletPoints": [
-        "what it is",
-        "how often you do it",
-        "where you do it",
-        "why you enjoy it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 25,
+      "topic": "Describe a time when you encouraged somebody to do something that he/she didn't want to do",
+      "cue_points": [
+        "Who this person is",
+        "What you encouraged him/her to do",
+        "How he/she reacted",
+        "And explain when you encouraged him/her to do this"
+      ]
     },
     {
-      "topicId": "outdoor_activity",
-      "topic": "Outdoor Activities",
-      "cueCardId": "p2_26",
-      "cueCard": "Describe an outdoor activity you would like to try.",
-      "bulletPoints": [
-        "what the activity is",
-        "where you could do it",
-        "who you would like to do it with",
-        "why you would like to try it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 26,
+      "topic": "Describe a kind of food that you ate at special occasions",
+      "cue_points": [
+        "What it is",
+        "What occasion it was",
+        "Why you would like to eat it",
+        "And explain how you feel about it"
+      ]
     },
     {
-      "topicId": "website_app",
-      "topic": "Websites and Apps",
-      "cueCardId": "p2_27",
-      "cueCard": "Describe a website or app that you find useful.",
-      "bulletPoints": [
-        "what it is",
-        "how you found it",
-        "what you use it for",
-        "why you find it useful"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 27,
+      "topic": "Describe a difficult decision you made that had a good result",
+      "cue_points": [
+        "What the decision was",
+        "Why it was difficult to make the decision",
+        "What helped you to decide",
+        "And explain why the decision you made had a good result"
+      ]
     },
     {
-      "topicId": "photo",
-      "topic": "Photography and Memories",
-      "cueCardId": "p2_28",
-      "cueCard": "Describe a photograph that is important to you.",
-      "bulletPoints": [
-        "what is shown in the photograph",
-        "when it was taken",
-        "who took it",
-        "why it is important to you"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 28,
+      "topic": "Describe a person who has chosen a career in the medical field (e.g. doctor, nurse, vet)",
+      "cue_points": [
+        "Who this person is",
+        "What does this person do",
+        "Why this person chose medical career",
+        "And explain how you felt about this person"
+      ]
     },
     {
-      "topicId": "environment",
-      "topic": "Environment",
-      "cueCardId": "p2_29",
-      "cueCard": "Describe a place in nature that you would like to protect.",
-      "bulletPoints": [
-        "where it is",
-        "what it is like",
-        "what problems it faces",
-        "why you think it should be protected"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 29,
+      "topic": "Describe a place you have visited that you think is a good place to live",
+      "cue_points": [
+        "Where it is",
+        "What you know about this place",
+        "What people can do there",
+        "And explain why you would recommend this place as a good place to live"
+      ]
     },
     {
-      "topicId": "future_goal",
-      "topic": "Future Plans",
-      "cueCardId": "p2_30",
-      "cueCard": "Describe a goal that you hope to achieve in the future.",
-      "bulletPoints": [
-        "what the goal is",
-        "why you want to achieve it",
-        "what you need to do",
-        "how you would feel if you achieved it"
-      ],
-      "finalPrompt": "and explain your answer in detail."
+      "id": 30,
+      "topic": "Describe a tall building in your city you like or dislike",
+      "cue_points": [
+        "Where it is",
+        "What it is used for",
+        "What it looks like",
+        "And explain why you like or dislike it"
+      ]
+    },
+    {
+      "id": 31,
+      "topic": "Describe a person you know about who runs a successful business",
+      "cue_points": [
+        "How you knew him/her",
+        "What business does this person do",
+        "How long has this person run his/her business",
+        "And explain why you think his/her business is successful"
+      ]
+    },
+    {
+      "id": 32,
+      "topic": "Describe a person you know who enjoys growing plants",
+      "cue_points": [
+        "How you know this person",
+        "What plants this person enjoys growing",
+        "Where this person grows plants",
+        "And explain why you think this person enjoys growing these plants"
+      ]
+    },
+    {
+      "id": 33,
+      "topic": "Describe a live sport match you have ever watched",
+      "cue_points": [
+        "What it was",
+        "When you watched it",
+        "What it was like",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "id": 34,
+      "topic": "Describe a piece of local news that people are interested in",
+      "cue_points": [
+        "What it was about",
+        "Where you saw/heard it",
+        "Who was involved",
+        "And explain why people were interested in it"
+      ]
+    },
+    {
+      "id": 35,
+      "topic": "Describe a problem of technology you have encountered, like a computer or a cell phone",
+      "cue_points": [
+        "What it was",
+        "When and where you had this problem",
+        "How the problem was solved",
+        "And explain how you felt when you had this problem"
+      ]
+    },
+    {
+      "id": 36,
+      "topic": "Describe a time when you had to get up very early",
+      "cue_points": [
+        "Where you were",
+        "What time you had to get up",
+        "Why you had to get up so early",
+        "And explain how you felt about getting up very early"
+      ]
+    },
+    {
+      "id": 37,
+      "topic": "Describe a home that you like to visit but did not want to live in",
+      "cue_points": [
+        "Where it is",
+        "What it is like",
+        "What you visited it for",
+        "And explain why you would not like to live there"
+      ]
+    },
+    {
+      "id": 38,
+      "topic": "Describe an ambition you have had for a long time",
+      "cue_points": [
+        "What it was",
+        "How you got the desire to want to achieve it",
+        "What you have to do to achieve it",
+        "And explain how you feel about it"
+      ]
+    },
+    {
+      "id": 39,
+      "topic": "Describe a friend from childhood who you remember very well",
+      "cue_points": [
+        "Who the friend is",
+        "How you met him/her",
+        "What you used to do together",
+        "And explain why you remember this childhood friend so well"
+      ]
+    },
+    {
+      "id": 40,
+      "topic": "Describe a time that you had to change your plan / you changed your mind",
+      "cue_points": [
+        "When this happened",
+        "What made you change the plan",
+        "What the new plan was",
+        "And how you felt about the change"
+      ]
+    },
+    {
+      "id": 41,
+      "topic": "Describe an interesting video you watched in social media",
+      "cue_points": [
+        "When and where you saw it",
+        "What it was about",
+        "Why you think it is interesting",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "id": 42,
+      "topic": "Describe a time you changed your opinion",
+      "cue_points": [
+        "When it was",
+        "What was your opinion",
+        "Why you changed your opinion",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "id": 43,
+      "topic": "Describe a place you went to on holiday that you would recommend",
+      "cue_points": [
+        "Where you went",
+        "Why you went to this place",
+        "What you did",
+        "And explain why you would recommend this place for a holiday"
+      ]
+    },
+    {
+      "id": 44,
+      "topic": "Describe a place you have been to and felt bored",
+      "cue_points": [
+        "Where it was",
+        "When you went there",
+        "What you did there",
+        "And explain why you think it is boring"
+      ]
+    },
+    {
+      "id": 45,
+      "topic": "Describe a person you know who successfully achieved something difficult",
+      "cue_points": [
+        "Who it is",
+        "What he/she had achieved",
+        "How difficult it was",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "id": 46,
+      "topic": "Describe a law of environment protection that you would like to introduce",
+      "cue_points": [
+        "What it is",
+        "How you first learned about it",
+        "Who benefits from it",
+        "And explain how you feel about this law"
+      ]
+    },
+    {
+      "id": 47,
+      "topic": "Describe a time when you had to make an important decision",
+      "cue_points": [
+        "What decision you had to make",
+        "How you made the decision",
+        "Why this decision was important",
+        "And explain whether you think it was a right decision"
+      ]
+    },
+    {
+      "id": 48,
+      "topic": "Describe a story you knew that involves an animal (like in a movie or a book)",
+      "cue_points": [
+        "What the movie or book is about",
+        "When and where you watched it",
+        "Are there any other animals in the movie or book",
+        "And explain how you felt about this movie or book"
+      ]
+    },
+    {
+      "id": 49,
+      "topic": "Describe a person who has not replied to your messages for a long time",
+      "cue_points": [
+        "Who he/she is",
+        "What message you sent him/her",
+        "Did he/she finally reply you",
+        "And explain how you felt about him/her"
+      ]
+    },
+    {
+      "id": 50,
+      "topic": "Describe a piece of advertisement which is about a famous person",
+      "cue_points": [
+        "What the advertisement is about",
+        "When and where you saw it",
+        "What the famous person does in the advertisement",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "id": 51,
+      "topic": "Describe a person who is good at learning languages",
+      "cue_points": [
+        "Who it is",
+        "How you knew him/her",
+        "What languages he/she has learnt",
+        "And explain why you think he/she is good at learning languages"
+      ]
+    },
+    {
+      "id": 52,
+      "topic": "Describe an interesting building that you would like to visit",
+      "cue_points": [
+        "Where this interesting building is",
+        "How you know about this building",
+        "What you already know about it",
+        "And explain how you would feel if you visited this interesting building."
+      ]
+    },
+    {
+      "id": 53,
+      "topic": "Describe a wild animal you would like to learn more about",
+      "cue_points": [
+        "Which wild animal it is",
+        "What you already know about it",
+        "How you would like to learn more about it",
+        "And explain why you would like to learn more about this wild animal."
+      ]
+    },
+    {
+      "id": 54,
+      "topic": "Describe an occasion when you felt excited about trying an activity for the first time",
+      "cue_points": [
+        "What activity you did",
+        "Where and when you did this",
+        "How easy or difficult it was to do",
+        "And explain what was exciting about trying this activity for the first time."
+      ]
+    },
+    {
+      "id": 55,
+      "topic": "Describe a time when you had to wait for something special to happen",
+      "cue_points": [
+        "What this special thing was",
+        "Why you had to wait for it",
+        "What you did while you were waiting",
+        "And explain how you felt about waiting for this special thing to happen."
+      ]
+    },
+    {
+      "id": 56,
+      "topic": "Describe an occasion when the electricity suddenly went off",
+      "cue_points": [
+        "When and where it happened",
+        "What you were doing",
+        "How long the electricity went off for",
+        "And explain how you felt when the electricity suddenly went off."
+      ]
+    },
+    {
+      "id": 57,
+      "topic": "Describe a place which is far away that you would like to visit in the future",
+      "cue_points": [
+        "Where it is",
+        "How you would travel there",
+        "What you would do there",
+        "And explain why you would really like to visit this place"
+      ]
+    },
+    {
+      "id": 58,
+      "topic": "Describe a tradition in your country",
+      "cue_points": [
+        "What it is",
+        "When it will happen",
+        "What people need to do",
+        "And explain how you feel about it"
+      ]
+    },
+    {
+      "id": 59,
+      "topic": "Describe a time when something in your home broke and you tried to repair it",
+      "cue_points": [
+        "What thing broke",
+        "Why this thing broke",
+        "What you did to try to repair it",
+        "And explain how successful you were at trying to repair this thing"
+      ]
+    },
+    {
+      "id": 60,
+      "topic": "Describe a traditional product made in your country which you like",
+      "cue_points": [
+        "What this product is",
+        "When you first tried this product",
+        "How this product is made",
+        "And explain why you like this traditional product"
+      ]
+    },
+    {
+      "id": 61,
+      "topic": "Describe a time when you changed a decision",
+      "cue_points": [
+        "What decision you made",
+        "Why you changed the decision",
+        "Is it a good result",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "id": 62,
+      "topic": "Describe a special cake you received from others",
+      "cue_points": [
+        "When it happened",
+        "Where it happened",
+        "Who you got the cake from",
+        "And explain why it's a special cake"
+      ]
     }
   ]
 }

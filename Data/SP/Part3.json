@@ -1,817 +1,658 @@
 {
   "part": 3,
-  "name": "Two-way Discussion",
-  "description": "More abstract discussion questions linked to the themes explored in Part 2.",
-  "recommendedDurationMinutes": "4-5",
+  "source": "BỘ DỰ ĐOÁN ĐỀ THI IELTS SPEAKING QUÝ 2 (THÁNG 5 - THÁNG 8) NĂM 2026 BY NGOCBACH BẢN FINAL",
   "topics": [
     {
-      "topicId": "people_inspire",
-      "topic": "People and Influence",
-      "linkedPart2CueCardId": "p2_01",
+      "id": 1,
+      "related_part2_topic": "Describe a time when you felt very proud of something a family member did",
       "questions": [
-        {
-          "id": "p3_01_q1",
-          "text": "Why do some people have a strong influence on others?"
-        },
-        {
-          "id": "p3_01_q2",
-          "text": "Are young people influenced more by family members or by people they see online?"
-        },
-        {
-          "id": "p3_01_q3",
-          "text": "What qualities make someone a good role model?"
-        },
-        {
-          "id": "p3_01_q4",
-          "text": "Can famous people have a negative influence on society?"
-        },
-        {
-          "id": "p3_01_q5",
-          "text": "Do people need role models at every stage of life?"
-        }
+        "What kinds of behaviors of young children can make their parents feel proud?",
+        "Why do giving academic prizes or rewards help promote children's progress?",
+        "Do you think it is good for parents to give children too many prizes or rewards?",
+        "Does any job bring people a sense of pride?",
+        "Have the things that people are proud of changed compared to the past?",
+        "When do adults feel proud of themselves?"
       ]
     },
     {
-      "topicId": "helpful_person",
-      "topic": "Helping Others",
-      "linkedPart2CueCardId": "p2_02",
+      "id": 2,
+      "related_part2_topic": "Describe a time when you were not allowed to use your phone",
       "questions": [
-        {
-          "id": "p3_02_q1",
-          "text": "Why are some people more willing to help others than other people are?"
-        },
-        {
-          "id": "p3_02_q2",
-          "text": "Do people today help their neighbours as much as in the past?"
-        },
-        {
-          "id": "p3_02_q3",
-          "text": "Should schools encourage students to do voluntary work?"
-        },
-        {
-          "id": "p3_02_q4",
-          "text": "What kinds of help should governments provide to people in difficulty?"
-        },
-        {
-          "id": "p3_02_q5",
-          "text": "Can helping others also benefit the person who gives the help?"
-        }
+        "In your country, which places are not allowed people to use phones?",
+        "Do you think it is important to introduce new rules for using mobile phones?",
+        "Why do young and old people use mobile phones differently?",
+        "When should parents allow their children to have mobile phones?",
+        "Do you agree that the social rules in the past were stricter than those of today?",
+        "Is it quite prevalent that people are addicted to mobile phones?"
       ]
     },
     {
-      "topicId": "interesting_person",
-      "topic": "Interesting People",
-      "linkedPart2CueCardId": "p2_03",
+      "id": 3,
+      "related_part2_topic": "Describe a perfect job you would like to have in the future",
       "questions": [
-        {
-          "id": "p3_03_q1",
-          "text": "What makes a person interesting to talk to?"
-        },
-        {
-          "id": "p3_03_q2",
-          "text": "Do people with different backgrounds usually learn from one another?"
-        },
-        {
-          "id": "p3_03_q3",
-          "text": "Has technology made it easier to meet interesting people?"
-        },
-        {
-          "id": "p3_03_q4",
-          "text": "Why are some people curious about other people's lives?"
-        },
-        {
-          "id": "p3_03_q5",
-          "text": "Is being a good listener as important as being a good speaker?"
-        }
+        "What types of jobs do children usually want to do?",
+        "What are the dream jobs of people in your country?",
+        "Why do some jobs attract more people than others?",
+        "Why do people choose the job they mentioned as their dream job?",
+        "Why do people change their dream jobs as they grow older?"
       ]
     },
     {
-      "topicId": "place_relax",
-      "topic": "Places and Relaxation",
-      "linkedPart2CueCardId": "p2_04",
+      "id": 4,
+      "related_part2_topic": "Describe an occasion you remember when you saw a lot of people smiling",
       "questions": [
-        {
-          "id": "p3_04_q1",
-          "text": "Why do people need places where they can relax?"
-        },
-        {
-          "id": "p3_04_q2",
-          "text": "Are public parks important in large cities?"
-        },
-        {
-          "id": "p3_04_q3",
-          "text": "How has the way people relax changed in recent decades?"
-        },
-        {
-          "id": "p3_04_q4",
-          "text": "Should companies provide spaces where employees can rest?"
-        },
-        {
-          "id": "p3_04_q5",
-          "text": "Do you think people will have more or less leisure time in the future?"
-        }
+        "Why do people smile?",
+        "Do children tend to smile more frequently than adults?",
+        "Why do people usually smile when taking photos?",
+        "Do elderly older people have better control over their feelings compared to young people?",
+        "When is it important for people not to show their emotions?",
+        "Do you agree or disagree that people might be motivated more by their emotions than by logical thinking?",
+        "Is it a good thing for people to be driven by emotions?"
       ]
     },
     {
-      "topicId": "beautiful_place",
-      "topic": "Beautiful Places",
-      "linkedPart2CueCardId": "p2_05",
+      "id": 5,
+      "related_part2_topic": "Describe a famous person who you would like to meet",
       "questions": [
-        {
-          "id": "p3_05_q1",
-          "text": "Why are people attracted to beautiful natural places?"
-        },
-        {
-          "id": "p3_05_q2",
-          "text": "Should governments limit the number of visitors to popular tourist sites?"
-        },
-        {
-          "id": "p3_05_q3",
-          "text": "How can tourism damage beautiful places?"
-        },
-        {
-          "id": "p3_05_q4",
-          "text": "Who should be responsible for protecting natural attractions?"
-        },
-        {
-          "id": "p3_05_q5",
-          "text": "Can a place remain attractive after it becomes highly developed?"
-        }
+        "What kinds of famous people are often in the news in your country?",
+        "Why do children want to become famous?",
+        "Are there more celebrities in the news now?",
+        "Do you agree that everyone enjoys reading news about celebrities?",
+        "Do people like these packaged celebrities or those with genuine talent?",
+        "Is it possible for people to become famous without talent?",
+        "Would people still want to become famous if they knew what they are going to face?"
       ]
     },
     {
-      "topicId": "city_visit",
-      "topic": "Cities",
-      "linkedPart2CueCardId": "p2_06",
+      "id": 6,
+      "related_part2_topic": "Describe a person you know who enjoys helping other people",
       "questions": [
-        {
-          "id": "p3_06_q1",
-          "text": "What makes a city attractive to visitors?"
-        },
-        {
-          "id": "p3_06_q2",
-          "text": "Why do some cities attract more tourists than others?"
-        },
-        {
-          "id": "p3_06_q3",
-          "text": "How can tourism benefit local residents?"
-        },
-        {
-          "id": "p3_06_q4",
-          "text": "What problems can large numbers of tourists create in cities?"
-        },
-        {
-          "id": "p3_06_q5",
-          "text": "How might cities change to become better places for both residents and visitors?"
-        }
+        "What kinds of machines do people usually use at home to help them?",
+        "What is your opinion on whether parents should teach their children to help with housework?",
+        "How can children help their parents at home?",
+        "Do you agree that it's important for everyone in a family to help at home?",
+        "Should students do community service? Why?",
+        "What kinds of help do people need when they start a new job?",
+        "Is it necessary for employees to ask their manager for help?",
+        "Do you agree or disagree that many people will lose their jobs because of AI?"
       ]
     },
     {
-      "topicId": "journey",
-      "topic": "Travel and Journeys",
-      "linkedPart2CueCardId": "p2_07",
+      "id": 7,
+      "related_part2_topic": "Describe an app or software you often use on your phone or computer",
       "questions": [
-        {
-          "id": "p3_07_q1",
-          "text": "Why do people remember some journeys more than others?"
-        },
-        {
-          "id": "p3_07_q2",
-          "text": "How has transport changed the way people travel?"
-        },
-        {
-          "id": "p3_07_q3",
-          "text": "Do you think long-distance travel will become easier in the future?"
-        },
-        {
-          "id": "p3_07_q4",
-          "text": "What are the advantages of travelling slowly rather than quickly?"
-        },
-        {
-          "id": "p3_07_q5",
-          "text": "Should governments invest more in public transport or roads?"
-        }
+        "What kinds of programs or apps are popular in your country?",
+        "Why do some people not like to use programs or apps?",
+        "What are the differences between the kinds of apps and programs young people and old people use?",
+        "Is it necessary for parents to limit the time their children spend on apps or computer programs?",
+        "What are the benefits of using apps as a tool for education?"
       ]
     },
     {
-      "topicId": "holiday",
-      "topic": "Holidays",
-      "linkedPart2CueCardId": "p2_08",
+      "id": 8,
+      "related_part2_topic": "Describe a movie you enjoyed watching",
       "questions": [
-        {
-          "id": "p3_08_q1",
-          "text": "Why are holidays important for people?"
-        },
-        {
-          "id": "p3_08_q2",
-          "text": "Do people in your country prefer domestic or international holidays?"
-        },
-        {
-          "id": "p3_08_q3",
-          "text": "How has social media changed the way people experience holidays?"
-        },
-        {
-          "id": "p3_08_q4",
-          "text": "Can tourism have negative effects on local cultures?"
-        },
-        {
-          "id": "p3_08_q5",
-          "text": "How might people's holiday habits change in the future?"
-        }
+        "In your country, what kinds of movies do people like to watch?",
+        "Do people like to watch movies at home or in the cinema?",
+        "Why don't some people enjoy watching movies?",
+        "What qualities do people need to be good actors?",
+        "Which is more important for an actor, acting skills or appearance?",
+        "Do you agree or disagree that being an actor is a difficult job?",
+        "How important are famous actors to the success of a movie?"
       ]
     },
     {
-      "topicId": "useful_object",
-      "topic": "Useful Objects",
-      "linkedPart2CueCardId": "p2_09",
+      "id": 9,
+      "related_part2_topic": "Describe a time you needed to use your imagination",
       "questions": [
-        {
-          "id": "p3_09_q1",
-          "text": "Why do people become attached to certain possessions?"
-        },
-        {
-          "id": "p3_09_q2",
-          "text": "Do people own more things than they really need nowadays?"
-        },
-        {
-          "id": "p3_09_q3",
-          "text": "How has consumer culture changed people's attitudes to possessions?"
-        },
-        {
-          "id": "p3_09_q4",
-          "text": "Is it better to repair old items or replace them?"
-        },
-        {
-          "id": "p3_09_q5",
-          "text": "Do you think people will own fewer physical objects in the future?"
-        }
+        "What kinds of games do children need to use imagination to play?",
+        "Is it very important for teachers to encourage children to use their imagination?",
+        "Do you think reading stories needs more imagination or watching cartoons?",
+        "What are some jobs that require a good imagination?",
+        "Do scientists need to use their imagination?"
       ]
     },
     {
-      "topicId": "gift",
-      "topic": "Gifts",
-      "linkedPart2CueCardId": "p2_10",
+      "id": 10,
+      "related_part2_topic": "Describe a car, motorbike or bicycle trip that you think would be interesting",
       "questions": [
-        {
-          "id": "p3_10_q1",
-          "text": "Why do people give gifts?"
-        },
-        {
-          "id": "p3_10_q2",
-          "text": "Is the value of a gift related to its price?"
-        },
-        {
-          "id": "p3_10_q3",
-          "text": "How have gift-giving habits changed in recent years?"
-        },
-        {
-          "id": "p3_10_q4",
-          "text": "Are experiences better gifts than physical objects?"
-        },
-        {
-          "id": "p3_10_q5",
-          "text": "Should people feel obliged to give gifts on special occasions?"
-        }
+        "Are bicycles and motorbikes popular in your country?",
+        "Which form of vehicle is more popular in your country, bikes, cars or motorcycles?",
+        "What is the best thing about public transport in the area you live?",
+        "Do you agree that more and more people want to buy cars these days?",
+        "How do people travel today in cities and in the countryside?",
+        "Do city planners consider the needs of pedestrians enough?",
+        "What impact can an inadequate transport or transportation system have on a country?"
       ]
     },
     {
-      "topicId": "technology",
-      "topic": "Technology",
-      "linkedPart2CueCardId": "p2_11",
+      "id": 11,
+      "related_part2_topic": "Describe a place you enjoyed visiting that was very quiet",
       "questions": [
-        {
-          "id": "p3_11_q1",
-          "text": "How has technology changed everyday life?"
-        },
-        {
-          "id": "p3_11_q2",
-          "text": "Why do some people adopt new technology faster than others?"
-        },
-        {
-          "id": "p3_11_q3",
-          "text": "What problems can result from relying too much on technology?"
-        },
-        {
-          "id": "p3_11_q4",
-          "text": "Should children have limits on their use of digital devices?"
-        },
-        {
-          "id": "p3_11_q5",
-          "text": "What kinds of technology might become essential in the future?"
-        }
+        "In your country, what quiet places do people like to go?",
+        "Why do some people don't like quiet places?",
+        "Are there more or fewer quiet places now than in the past?",
+        "Can a place ever be completely quiet?",
+        "Can people listen to music while doing something else?",
+        "What are the benefits of quietness for people of all ages?",
+        "Do you agree or disagree that people today feel uncomfortable if there is no noise?"
       ]
     },
     {
-      "topicId": "book",
-      "topic": "Books and Reading",
-      "linkedPart2CueCardId": "p2_12",
+      "id": 12,
+      "related_part2_topic": "Describe a person who learned something new without a teacher",
       "questions": [
-        {
-          "id": "p3_12_q1",
-          "text": "Why is reading important for children?"
-        },
-        {
-          "id": "p3_12_q2",
-          "text": "Do people read less because of digital entertainment?"
-        },
-        {
-          "id": "p3_12_q3",
-          "text": "What are the advantages of printed books compared with electronic books?"
-        },
-        {
-          "id": "p3_12_q4",
-          "text": "Should schools allow students to choose more of the books they read?"
-        },
-        {
-          "id": "p3_12_q5",
-          "text": "How might reading habits change in the future?"
-        }
+        "What can children learn from parents?",
+        "What subjects do children often enjoy studying at school?",
+        "Do you agree or disagree that children have to study too many subjects at school?",
+        "Do you think some children are well-behaved because they are influenced by their parents?",
+        "Does a good teacher make learning more interesting?",
+        "What are the benefits for adults of returning to studying after leaving full-time education?",
+        "Might it ever be a good idea for retired people to go back to full-time education?",
+        "Do you agree that companies should provide regular training courses for their employees?"
       ]
     },
     {
-      "topicId": "film",
-      "topic": "Films",
-      "linkedPart2CueCardId": "p2_13",
+      "id": 13,
+      "related_part2_topic": "Describe a person who you think is good at planning things",
       "questions": [
-        {
-          "id": "p3_13_q1",
-          "text": "Why are films an important form of entertainment?"
-        },
-        {
-          "id": "p3_13_q2",
-          "text": "Can films influence people's opinions and behaviour?"
-        },
-        {
-          "id": "p3_13_q3",
-          "text": "Why do some films become popular internationally?"
-        },
-        {
-          "id": "p3_13_q4",
-          "text": "Should governments support their national film industries?"
-        },
-        {
-          "id": "p3_13_q5",
-          "text": "Will cinemas remain important in the future?"
-        }
+        "What types of plans do people often make with friends and family?",
+        "Is it important for people to plan special events, such as weddings?",
+        "Why don't some people like to plan their social life in advance?",
+        "What are the advantages for young people of planning their future careers?",
+        "Should young people ask for advice about career planning, for example from teachers or family?",
+        "Do you agree or disagree that it is only possible to have a successful career if it has been carefully planned?"
       ]
     },
     {
-      "topicId": "song",
-      "topic": "Music",
-      "linkedPart2CueCardId": "p2_14",
+      "id": 14,
+      "related_part2_topic": "Describe a child you know who enjoys painting or drawing",
       "questions": [
-        {
-          "id": "p3_14_q1",
-          "text": "Why is music important in people's lives?"
-        },
-        {
-          "id": "p3_14_q2",
-          "text": "How does music taste differ between generations?"
-        },
-        {
-          "id": "p3_14_q3",
-          "text": "Why do some songs become popular around the world?"
-        },
-        {
-          "id": "p3_14_q4",
-          "text": "Should schools devote more time to music education?"
-        },
-        {
-          "id": "p3_14_q5",
-          "text": "How has technology changed the music industry?"
-        }
+        "At what age do children usually start to paint and draw?",
+        "Should children have art lessons or classes at school?",
+        "Why do children often paint and draw more than adults do?",
+        "Why do many people enjoy going to galleries and museums to see art?",
+        "Should entry to galleries and museums be free for everyone?",
+        "Do you agree or disagree that when people look at art in galleries or museums, they can learn a lot about life in general?"
       ]
     },
     {
-      "topicId": "skill",
-      "topic": "Skills and Learning",
-      "linkedPart2CueCardId": "p2_15",
+      "id": 15,
+      "related_part2_topic": "Describe a shopping place you often go to",
       "questions": [
-        {
-          "id": "p3_15_q1",
-          "text": "What skills are most important for young people today?"
-        },
-        {
-          "id": "p3_15_q2",
-          "text": "Should schools focus more on practical skills?"
-        },
-        {
-          "id": "p3_15_q3",
-          "text": "Why do adults sometimes find it difficult to learn new skills?"
-        },
-        {
-          "id": "p3_15_q4",
-          "text": "How has technology changed the skills needed at work?"
-        },
-        {
-          "id": "p3_15_q5",
-          "text": "Which skills do you think will become more important in the future?"
-        }
+        "What places do people like to go shopping in your country?",
+        "Has shopping become a hobby for many people?",
+        "Do you agree or disagree that most people waste too much time shopping?",
+        "Do you agree or disagree that people often buy things that they don't really need?",
+        "Does buying things really make people happy?",
+        "How much influence does advertising have when people are buying things?"
       ]
     },
     {
-      "topicId": "course",
-      "topic": "Education",
-      "linkedPart2CueCardId": "p2_16",
+      "id": 16,
+      "related_part2_topic": "Describe a place in another country where you would like to work for a short time",
       "questions": [
-        {
-          "id": "p3_16_q1",
-          "text": "What makes a subject interesting to students?"
-        },
-        {
-          "id": "p3_16_q2",
-          "text": "Should students be allowed to choose most of the subjects they study?"
-        },
-        {
-          "id": "p3_16_q3",
-          "text": "What is the role of teachers when so much information is available online?"
-        },
-        {
-          "id": "p3_16_q4",
-          "text": "How can schools prepare students better for working life?"
-        },
-        {
-          "id": "p3_16_q5",
-          "text": "Do you think education will become more personalised in the future?"
-        }
+        "What jobs can people do in another country for a short time?",
+        "Why might some people not want to work in another country?",
+        "What are the advantages of working for an international company?",
+        "What personal skills do people need in order to work for an international company?",
+        "Do you agree or disagree that practical experience is more useful than qualifications when working in an international company?"
       ]
     },
     {
-      "topicId": "teacher",
-      "topic": "Teachers",
-      "linkedPart2CueCardId": "p2_17",
+      "id": 17,
+      "related_part2_topic": "Describe a time you gave advice to someone",
       "questions": [
-        {
-          "id": "p3_17_q1",
-          "text": "What qualities make someone a good teacher?"
-        },
-        {
-          "id": "p3_17_q2",
-          "text": "Has the role of teachers changed because of technology?"
-        },
-        {
-          "id": "p3_17_q3",
-          "text": "Should teachers be responsible for students' motivation?"
-        },
-        {
-          "id": "p3_17_q4",
-          "text": "Why are some teachers remembered for many years?"
-        },
-        {
-          "id": "p3_17_q5",
-          "text": "Do you think artificial intelligence could replace some teaching tasks?"
-        }
+        "When is it better to ask friends for advice rather than family?",
+        "Why do older people sometimes ask younger people for advice?",
+        "What problems can someone have when they ask lots of different people for advice?",
+        "In what situations is it important to think carefully before giving advice to someone?",
+        "What kinds of personal qualities do people need to give good advice?",
+        "Do you agree or disagree that anyone can learn how to give advice effectively?"
       ]
     },
     {
-      "topicId": "achievement",
-      "topic": "Achievement",
-      "linkedPart2CueCardId": "p2_18",
+      "id": 18,
+      "related_part2_topic": "Describe a piece of technology you would like to own in the future",
       "questions": [
-        {
-          "id": "p3_18_q1",
-          "text": "Why is it important for people to have goals?"
-        },
-        {
-          "id": "p3_18_q2",
-          "text": "Do people define success differently at different ages?"
-        },
-        {
-          "id": "p3_18_q3",
-          "text": "Should parents reward children for their achievements?"
-        },
-        {
-          "id": "p3_18_q4",
-          "text": "Is competition necessary for people to succeed?"
-        },
-        {
-          "id": "p3_18_q5",
-          "text": "Can failure be as valuable as success?"
-        }
+        "What are the different types of technology that young people often use?",
+        "Do you agree or disagree that technology has a positive effect on young people's lives?",
+        "How healthy is it for young people to spend a lot of time online?",
+        "What are the differences between talking to people online and talking to them face to face?"
       ]
     },
     {
-      "topicId": "challenge",
-      "topic": "Challenges",
-      "linkedPart2CueCardId": "p2_19",
+      "id": 19,
+      "related_part2_topic": "Describe an event you took part in but it had some music that you didn't like",
       "questions": [
-        {
-          "id": "p3_19_q1",
-          "text": "Why do some people enjoy difficult challenges?"
-        },
-        {
-          "id": "p3_19_q2",
-          "text": "Should children be encouraged to take on difficult tasks?"
-        },
-        {
-          "id": "p3_19_q3",
-          "text": "How can failure help people develop?"
-        },
-        {
-          "id": "p3_19_q4",
-          "text": "Are people today less willing to accept risk than in the past?"
-        },
-        {
-          "id": "p3_19_q5",
-          "text": "What kinds of challenges will society face in the future?"
-        }
+        "What kinds of music events are popular in your country?",
+        "What do people enjoy about going to large music events?",
+        "Why might younger and older people not enjoy the same music events?",
+        "Should children have music lessons or classes at school?",
+        "Why is music often played when people are doing physical exercise?",
+        "Do you agree or disagree that playing music in shops or stores is an effective way of selling more products?"
       ]
     },
     {
-      "topicId": "decision",
-      "topic": "Decisions",
-      "linkedPart2CueCardId": "p2_20",
+      "id": 20,
+      "related_part2_topic": "Describe a TV or online programme that you enjoy watching",
       "questions": [
-        {
-          "id": "p3_20_q1",
-          "text": "Why do some people find it difficult to make decisions?"
-        },
-        {
-          "id": "p3_20_q2",
-          "text": "Should young people make important decisions independently?"
-        },
-        {
-          "id": "p3_20_q3",
-          "text": "How much should people rely on advice from family and friends?"
-        },
-        {
-          "id": "p3_20_q4",
-          "text": "Has access to more information made decision-making easier or harder?"
-        },
-        {
-          "id": "p3_20_q5",
-          "text": "Which types of decisions should governments make for the public?"
-        }
+        "What types of TV or online programmes or shows are popular in your country?",
+        "Do younger and older people enjoy watching similar programmes or shows?",
+        "Why do some people spend so much time watching TV and online programmes or shows?",
+        "Do you agree or disagree that there are too many programmes/shows for people to choose from these days?",
+        "What do you think of the view that parents should choose what programmes or shows their children watch?"
       ]
     },
     {
-      "topicId": "event",
-      "topic": "Events",
-      "linkedPart2CueCardId": "p2_21",
+      "id": 21,
+      "related_part2_topic": "Describe a time when you had to pay more than you expected for something",
       "questions": [
-        {
-          "id": "p3_21_q1",
-          "text": "Why are public events important for communities?"
-        },
-        {
-          "id": "p3_21_q2",
-          "text": "What makes an event successful?"
-        },
-        {
-          "id": "p3_21_q3",
-          "text": "How have online events changed the way people participate?"
-        },
-        {
-          "id": "p3_21_q4",
-          "text": "Should governments spend public money on large cultural or sporting events?"
-        },
-        {
-          "id": "p3_21_q5",
-          "text": "Do large events bring more benefits or problems to host cities?"
-        }
+        "What kinds of things do young people like to spend money on?",
+        "Why do some people spend money on things they don't really need?",
+        "How important is saving money for the future?",
+        "How important is it to teach children about giving money to support people in need?"
       ]
     },
     {
-      "topicId": "celebration",
-      "topic": "Celebrations",
-      "linkedPart2CueCardId": "p2_22",
+      "id": 22,
+      "related_part2_topic": "Describe a city that you have been to and enjoy visiting",
       "questions": [
-        {
-          "id": "p3_22_q1",
-          "text": "Why are celebrations important in society?"
-        },
-        {
-          "id": "p3_22_q2",
-          "text": "How have traditional celebrations changed in recent years?"
-        },
-        {
-          "id": "p3_22_q3",
-          "text": "Do commercial businesses have too much influence on celebrations?"
-        },
-        {
-          "id": "p3_22_q4",
-          "text": "Should younger generations be encouraged to preserve traditional festivals?"
-        },
-        {
-          "id": "p3_22_q5",
-          "text": "Can national celebrations help create a sense of unity?"
-        }
+        "Why do tourists choose to visit certain cities?",
+        "Are modern cities more interesting for tourists than historical ones?",
+        "Are cities that tourists like to visit also good places to live?",
+        "Why do many people choose to live in cities?",
+        "Does living in cities have more advantages for younger or older people?",
+        "Do you agree or disagree that cities lose their individual character as they grow in size?"
       ]
     },
     {
-      "topicId": "meal",
-      "topic": "Food and Meals",
-      "linkedPart2CueCardId": "p2_23",
+      "id": 23,
+      "related_part2_topic": "Describe a time when someone you know found a clever solution to a problem",
       "questions": [
-        {
-          "id": "p3_23_q1",
-          "text": "Why are shared meals important in many cultures?"
-        },
-        {
-          "id": "p3_23_q2",
-          "text": "Do families eat together less often than in the past?"
-        },
-        {
-          "id": "p3_23_q3",
-          "text": "How has fast food changed eating habits?"
-        },
-        {
-          "id": "p3_23_q4",
-          "text": "Should schools teach children more about food and nutrition?"
-        },
-        {
-          "id": "p3_23_q5",
-          "text": "How might people's eating habits change in the future?"
-        }
+        "Do you think children are born clever, or do they learn to be clever?",
+        "How important are schools in helping children become more clever?",
+        "Do you agree or disagree that very clever children are usually happy?",
+        "Why may a person be very good at one thing, but not another?",
+        "Why does society need people with different types of intelligence?",
+        "Do you think people can become very good at anything if they try hard enough?"
       ]
     },
     {
-      "topicId": "restaurant",
-      "topic": "Restaurants",
-      "linkedPart2CueCardId": "p2_24",
+      "id": 24,
+      "related_part2_topic": "Describe a person you know who encourages people to protect the environment or nature",
       "questions": [
-        {
-          "id": "p3_24_q1",
-          "text": "Why do people enjoy eating in restaurants?"
-        },
-        {
-          "id": "p3_24_q2",
-          "text": "What makes a restaurant successful?"
-        },
-        {
-          "id": "p3_24_q3",
-          "text": "How have food delivery apps affected restaurants?"
-        },
-        {
-          "id": "p3_24_q4",
-          "text": "Should traditional local food be protected from global food trends?"
-        },
-        {
-          "id": "p3_24_q5",
-          "text": "Do you think people will cook less at home in the future?"
-        }
+        "How can parents help children to learn about nature?",
+        "Do you agree or disagree that children should spend more time learning about nature at school?",
+        "Is it easy for children living in cities to enjoy the natural world?",
+        "What things can people do to help to protect nature?",
+        "Do you think there is a need for new laws to protect nature?",
+        "Are punishments or rewards more effective in encouraging people to protect nature?"
       ]
     },
     {
-      "topicId": "sport",
-      "topic": "Sports",
-      "linkedPart2CueCardId": "p2_25",
+      "id": 25,
+      "related_part2_topic": "Describe a time when you encouraged somebody to do something that he/she didn't want to do",
       "questions": [
-        {
-          "id": "p3_25_q1",
-          "text": "Why is sport important for society?"
-        },
-        {
-          "id": "p3_25_q2",
-          "text": "Why are some sports much more popular than others?"
-        },
-        {
-          "id": "p3_25_q3",
-          "text": "Should professional athletes be considered role models?"
-        },
-        {
-          "id": "p3_25_q4",
-          "text": "How can governments encourage people to be more physically active?"
-        },
-        {
-          "id": "p3_25_q5",
-          "text": "Do you think competitive sport puts too much pressure on young people?"
-        }
+        "In what situations do parents need to encourage their children to do something?",
+        "What ways can parents use to encourage children to do things they don't want to do?",
+        "Why do children often not want to do what their parents ask?",
+        "How can employees be encouraged to work hard?",
+        "Do you agree or disagree that the most important role of a boss is to encourage employees?",
+        "Are people at work more motivated by praise or money?"
       ]
     },
     {
-      "topicId": "outdoor_activity",
-      "topic": "Outdoor Activities",
-      "linkedPart2CueCardId": "p2_26",
+      "id": 26,
+      "related_part2_topic": "Describe a kind of food that you ate at special occasions",
       "questions": [
-        {
-          "id": "p3_26_q1",
-          "text": "Why do some people prefer outdoor activities to indoor activities?"
-        },
-        {
-          "id": "p3_26_q2",
-          "text": "Should schools include more outdoor education?"
-        },
-        {
-          "id": "p3_26_q3",
-          "text": "How does living in a city affect people's access to outdoor activities?"
-        },
-        {
-          "id": "p3_26_q4",
-          "text": "Can outdoor tourism harm the environment?"
-        },
-        {
-          "id": "p3_26_q5",
-          "text": "Will people spend more or less time outdoors in the future?"
-        }
+        "Why is food important during special occasions in your country?",
+        "What kinds of food do people usually eat during festivals or family celebrations?",
+        "Do you think young people prefer traditional food or fast food? Why?",
+        "How have people's eating habits changed compared to the past?",
+        "Do you think eating together helps strengthen family relationships?",
+        "Why?",
+        "Is it better to cook at home or eat at restaurants on special occasions?",
+        "What is special about the way this food is made?"
       ]
     },
     {
-      "topicId": "website_app",
-      "topic": "Websites and Apps",
-      "linkedPart2CueCardId": "p2_27",
+      "id": 27,
+      "related_part2_topic": "Describe a difficult decision you made that had a good result",
       "questions": [
-        {
-          "id": "p3_27_q1",
-          "text": "Why have apps become so important in everyday life?"
-        },
-        {
-          "id": "p3_27_q2",
-          "text": "What makes people trust or distrust a website or app?"
-        },
-        {
-          "id": "p3_27_q3",
-          "text": "Should technology companies be allowed to collect large amounts of user data?"
-        },
-        {
-          "id": "p3_27_q4",
-          "text": "How can digital services improve access to education and public services?"
-        },
-        {
-          "id": "p3_27_q5",
-          "text": "Do you think people will become more dependent on apps in the future?"
-        }
+        "Why do some people find it difficult to make important decisions?",
+        "Do young people make decisions differently from older people?",
+        "Who do people usually ask for advice when making important decisions?",
+        "Do you think people should always think carefully before making decisions?",
+        "Can difficult decisions help people grow as individuals? Why?",
+        "Do you prefer making decisions alone or with other people's advice?"
       ]
     },
     {
-      "topicId": "photo",
-      "topic": "Photography and Memories",
-      "linkedPart2CueCardId": "p2_28",
+      "id": 28,
+      "related_part2_topic": "Describe a person who has chosen a career in the medical field (e.g. doctor, nurse, vet)",
       "questions": [
-        {
-          "id": "p3_28_q1",
-          "text": "Why do people take so many photographs today?"
-        },
-        {
-          "id": "p3_28_q2",
-          "text": "Has taking photographs changed because of smartphones?"
-        },
-        {
-          "id": "p3_28_q3",
-          "text": "Do photographs help people remember events accurately?"
-        },
-        {
-          "id": "p3_28_q4",
-          "text": "Why are old family photographs important?"
-        },
-        {
-          "id": "p3_28_q5",
-          "text": "Do people spend too much time taking photos instead of experiencing events?"
-        }
+        "Why do some people choose to work in the medical field?",
+        "Do you think doctors and nurses are respected in society? Why?",
+        "What qualities should a person have to work in healthcare?",
+        "Is working in the medical field more stressful than other jobs? Why?",
+        "Should medical workers receive higher salaries? Why or why not?",
+        "Do you think young people today are interested in becoming doctors?",
+        "Why do some people want to be doctors?",
+        "Do you think it is difficult to become a doctor?",
+        "Do you think studying biology at school makes students healthier?"
       ]
     },
     {
-      "topicId": "environment",
-      "topic": "Environment",
-      "linkedPart2CueCardId": "p2_29",
+      "id": 29,
+      "related_part2_topic": "Describe a place you have visited that you think is a good place to live",
       "questions": [
-        {
-          "id": "p3_29_q1",
-          "text": "Why is it difficult to protect natural areas?"
-        },
-        {
-          "id": "p3_29_q2",
-          "text": "Who should have the greatest responsibility for environmental protection?"
-        },
-        {
-          "id": "p3_29_q3",
-          "text": "How can governments encourage people to behave in more environmentally friendly ways?"
-        },
-        {
-          "id": "p3_29_q4",
-          "text": "Can economic development and environmental protection happen at the same time?"
-        },
-        {
-          "id": "p3_29_q5",
-          "text": "What environmental problems are likely to become more serious in the future?"
-        }
+        "What factors make a place suitable for living?",
+        "Do young people and older people have different preferences about where to live?",
+        "Is it better to live in the city or in the countryside? Why?",
+        "How important is public transportation in a place to live?",
+        "Do you think people move more often nowadays? Why?",
+        "What can governments do to make cities better places to live?"
       ]
     },
     {
-      "topicId": "future_goal",
-      "topic": "Future Plans",
-      "linkedPart2CueCardId": "p2_30",
+      "id": 30,
+      "related_part2_topic": "Describe a tall building in your city you like or dislike",
       "questions": [
-        {
-          "id": "p3_30_q1",
-          "text": "Why is it useful to set long-term goals?"
-        },
-        {
-          "id": "p3_30_q2",
-          "text": "Do young people today have different ambitions from previous generations?"
-        },
-        {
-          "id": "p3_30_q3",
-          "text": "How much does family influence people's career goals?"
-        },
-        {
-          "id": "p3_30_q4",
-          "text": "Is achieving a goal more important than enjoying the process?"
-        },
-        {
-          "id": "p3_30_q5",
-          "text": "How might people's ideas of success change in the future?"
-        }
+        "Why do cities build more tall buildings nowadays?",
+        "Do tall buildings make cities look more attractive?",
+        "What are the advantages of living or working in tall buildings?",
+        "Are there any disadvantages to having too many tall buildings?",
+        "Do you think modern buildings are better than old buildings? Why?",
+        "Should cities preserve old buildings instead of replacing them?",
+        "Have you ever lived in a high-rise building?",
+        "What impact do you think climate has on architectural design?",
+        "Why do you think many Chinese people now live in high-rise buildings?",
+        "In the future, will Chinese people prefer high-rise buildings or houses?",
+        "Why do you think some people design their own homes?"
+      ]
+    },
+    {
+      "id": 31,
+      "related_part2_topic": "Describe a person you know about who runs a successful business",
+      "questions": [
+        "What qualities make someone a successful businessperson?",
+        "Do you think starting a business is risky? Why?",
+        "Why do some businesses succeed while others fail?",
+        "Is it better to work for a company or run your own business?",
+        "Do young people today prefer entrepreneurship? Why?",
+        "How important is customer service in business success?",
+        "Do you approve of the business model of small shops / small retail stores?"
+      ]
+    },
+    {
+      "id": 32,
+      "related_part2_topic": "Describe a person you know who enjoys growing plants",
+      "questions": [
+        "Why do some people enjoy gardening?",
+        "Do you think growing plants is popular among young people?",
+        "What are the benefits of growing plants at home?",
+        "Should schools teach children how to grow plants? Why?",
+        "How can plants improve people's quality of life?",
+        "Is gardening easier now than in the past? Why?",
+        "Do you have a favourite type of plant to grow?",
+        "What preparations do you need for planting?",
+        "Do you think planting is easy or difficult?",
+        "What do you gain after solving problems in planting?"
+      ]
+    },
+    {
+      "id": 33,
+      "related_part2_topic": "Describe a live sport match you have ever watched",
+      "questions": [
+        "Why do many people enjoy watching sports?",
+        "Do you think watching live sports is better than watching on TV?",
+        "Why?",
+        "How can sports events benefit a city or a country?",
+        "Why do some people become passionate sports fans?",
+        "Do international sports events help bring people together?",
+        "Should children be encouraged to play sports regularly? Why?",
+        "What are the advantages of watching sports events online?",
+        "What kinds of sports activities are suitable for children in China?"
+      ]
+    },
+    {
+      "id": 34,
+      "related_part2_topic": "Describe a piece of local news that people are interested in",
+      "questions": [
+        "How do people usually get local news nowadays?",
+        "Do you think local news is more important than international news?",
+        "Why?",
+        "Why are some news stories more popular than others?",
+        "Do social media affect the way people receive news?",
+        "Can news influence public opinion? How?",
+        "Do you think all news is reliable nowadays? Why or why not?",
+        "Do many people talk about local news?",
+        "Do young people or old people care more about local news?",
+        "Do people pay more attention to local news or national news?"
+      ]
+    },
+    {
+      "id": 35,
+      "related_part2_topic": "Describe a problem of technology you have encountered, like a computer or a cell phone",
+      "questions": [
+        "What kinds of technological problems do people often face?",
+        "Do older people have more difficulty using technology than young people?",
+        "How has technology made people's lives easier?",
+        "Do you think people depend too much on technology nowadays?",
+        "What should people do when technology fails?",
+        "Will technology become more reliable in the future?"
+      ]
+    },
+    {
+      "id": 36,
+      "related_part2_topic": "Describe a time when you had to get up very early",
+      "questions": [
+        "Why do some people prefer waking up early?",
+        "Do young people and older people have different sleeping habits?",
+        "Is it healthier to wake up early? Why?",
+        "What jobs require people to wake up very early?",
+        "How can people develop good sleeping habits?",
+        "Do modern lifestyles affect people's sleep?"
+      ]
+    },
+    {
+      "id": 37,
+      "related_part2_topic": "Describe a home that you like to visit but did not want to live in",
+      "questions": [
+        "What makes a home comfortable to live in?",
+        "Do people's housing preferences change as they get older?",
+        "Is it better to live in a house or an apartment? Why?",
+        "What factors do people consider when choosing a home?",
+        "Do modern homes differ from homes in the past?",
+        "How important is location when choosing a home?"
+      ]
+    },
+    {
+      "id": 38,
+      "related_part2_topic": "Describe an ambition you have had for a long time",
+      "questions": [
+        "Why is it important for people to have ambitions?",
+        "Do young people have different ambitions from older people?",
+        "Can ambition help people become successful? Why?",
+        "What can stop people from achieving their ambitions?",
+        "Should parents influence their children's ambitions?",
+        "Is it easier to achieve ambitions nowadays?"
+      ]
+    },
+    {
+      "id": 39,
+      "related_part2_topic": "Describe a friend from childhood who you remember very well",
+      "questions": [
+        "Why are childhood friendships special?",
+        "Is it easy to maintain friendships as people get older?",
+        "Do children make friends more easily than adults?",
+        "What qualities are important in friendship?",
+        "Can online friendships replace real-life friendships?",
+        "How do friendships influence people's development?"
+      ]
+    },
+    {
+      "id": 40,
+      "related_part2_topic": "Describe a time that you had to change your plan / you changed your mind",
+      "questions": [
+        "Why do people sometimes change their plans?",
+        "Is it important to be flexible in life?",
+        "Do young people change plans more often than older people?",
+        "How do people feel when their plans suddenly change?",
+        "Can changing plans sometimes lead to better results?",
+        "How can people deal with unexpected changes?"
+      ]
+    },
+    {
+      "id": 41,
+      "related_part2_topic": "Describe an interesting video you watched in social media",
+      "questions": [
+        "Why do people spend so much time watching videos online?",
+        "What types of videos are popular nowadays?",
+        "Do social media videos influence people's opinions?",
+        "Are online videos educational? Why or why not?",
+        "Do you think social media has more advantages than disadvantages?",
+        "Should children's use of social media be controlled?"
+      ]
+    },
+    {
+      "id": 42,
+      "related_part2_topic": "Describe a time you changed your opinion",
+      "questions": [
+        "Why do people change their opinions?",
+        "Is it easy for people to admit they were wrong?",
+        "Do older people change their opinions less often than young people?",
+        "Can other people influence our opinions? How?",
+        "Is it important to listen to different viewpoints?",
+        "Should people always stick to their own opinions?"
+      ]
+    },
+    {
+      "id": 43,
+      "related_part2_topic": "Describe a place you went to on holiday that you would recommend",
+      "questions": [
+        "Why do people enjoy traveling?",
+        "What makes a place attractive to tourists?",
+        "Do people prefer traveling alone or with others? Why?",
+        "How has tourism changed in recent years?",
+        "What are the benefits of traveling?",
+        "Can tourism have negative effects on local communities?",
+        "Where do people prefer to travel to?",
+        "Is it difficult for young people to choose a travel destination?",
+        "How do people decide on their travel dates?"
+      ]
+    },
+    {
+      "id": 44,
+      "related_part2_topic": "Describe a place you have been to and felt bored",
+      "questions": [
+        "Why do some people get bored easily?",
+        "What kinds of places do young people enjoy visiting?",
+        "Do people have different ideas of what is interesting?",
+        "How can tourist attractions become more appealing?",
+        "Is it important to try new experiences?",
+        "Do people today have less patience than in the past?",
+        "On what occasions do people feel bored?",
+        "Why do students find their teachers' lessons boring?",
+        "How to avoid feeling bored?",
+        "Why do some people find playing on their phones boring?"
+      ]
+    },
+    {
+      "id": 45,
+      "related_part2_topic": "Describe a person you know who successfully achieved something difficult",
+      "questions": [
+        "Why do some people succeed while others give up?",
+        "Is determination important for success?",
+        "Should parents teach children not to give up easily?",
+        "Can failure help people become successful?",
+        "What motivates people to achieve difficult goals?",
+        "Do successful people always work harder than others?"
+      ]
+    },
+    {
+      "id": 46,
+      "related_part2_topic": "Describe a law of environment protection that you would like to introduce",
+      "questions": [
+        "Why is environmental protection important?",
+        "What environmental problems are common in cities?",
+        "Should governments or individuals take more responsibility?",
+        "How can schools teach children about environmental protection?",
+        "Do you think environmental laws are effective?",
+        "Should companies be punished for pollution?"
+      ]
+    },
+    {
+      "id": 47,
+      "related_part2_topic": "Describe a time when you had to make an important decision",
+      "questions": [
+        "What kinds of decisions do young people usually make?",
+        "Why do some people find decision-making difficult?",
+        "Do men and women make decisions differently?",
+        "Is it better to make decisions alone or ask for advice?",
+        "Can technology help people make decisions?",
+        "How can experience improve decision-making?"
+      ]
+    },
+    {
+      "id": 48,
+      "related_part2_topic": "Describe a story you knew that involves an animal (like in a movie or a book)",
+      "questions": [
+        "Why do children enjoy stories about animals?",
+        "What can people learn from animal stories?",
+        "Do films influence how people view animals?",
+        "Why are animals often used in stories?",
+        "Should children learn about animals at school?",
+        "Do people care more about animal welfare nowadays?"
+      ]
+    },
+    {
+      "id": 49,
+      "related_part2_topic": "Describe a person who has not replied to your messages for a long time",
+      "questions": [
+        "Why do people sometimes ignore messages?",
+        "Is online communication better than face-to-face communication?",
+        "Do young people communicate differently from older people?",
+        "How has technology changed communication?",
+        "Is it rude not to reply to messages? Why?",
+        "Can texting damage relationships?"
+      ]
+    },
+    {
+      "id": 50,
+      "related_part2_topic": "Describe a piece of advertisement which is about a famous person",
+      "questions": [
+        "Why do companies use celebrities in advertisements?",
+        "Do celebrity advertisements influence consumers?",
+        "Are advertisements more creative nowadays?",
+        "What makes an advertisement effective?",
+        "Do children get influenced by advertisements easily?",
+        "Should there be stricter control of advertising?"
+      ]
+    },
+    {
+      "id": 51,
+      "related_part2_topic": "Describe a person who is good at learning languages",
+      "questions": [
+        "Why are some people better at learning languages than others?",
+        "Is it easier for children to learn languages?",
+        "What is the best way to learn a foreign language?",
+        "Why do people learn foreign languages?",
+        "Can technology help language learning?",
+        "Should schools teach more foreign languages?"
+      ]
+    },
+    {
+      "id": 62,
+      "related_part2_topic": "Describe a special cake you received from others",
+      "questions": [
+        "What are the differences between special food in China and other countries?",
+        "Is there any food in your country that is eaten at special times or on special occasions?",
+        "Why are some people willing to spend a lot of money on meals on special days?",
+        "Do you think it's good to communicate when eating with your family?",
+        "In your country, do people nowadays cook at home as frequently as they did in the past?",
+        "What do you think of people using their mobile phones during a meal?"
       ]
     }
   ]
